@@ -426,3 +426,17 @@ Los chats del Drive mencionan el padrón de 1843 pero **no registran datos**. El
 - Los libros de San Ignacio (Catedral al Sud) **se quemaron en 1955**.
 - Sobreviven duplicados en el Registro Civil, sección Archivos Parroquiales (Uruguay 753), y transcripciones parciales de matrimonios hechas por Vásquez Mansilla, publicadas en los boletines del Instituto Argentino de Ciencias Genealógicas en los años 70. Fuente: apellidositalianos.com.ar; prensagenealogica.com.ar, 6/2019.
 - No encontré en línea ninguna constancia de que la colección de FamilySearch «Argentina, Capital Federal, Catholic Church Records, 1640-1978» (colección 1974184) incluya defunciones de 1862 de San Ignacio. **Pendiente**: verificarlo con sesión iniciada.
+
+---
+
+## Adenda 4 (9/11/2026): fuentes abiertas complementarias
+
+- **Pillado, Antonio, *Diccionario de Buenos Aires ó sea Guía de forasteros*, Buenos Aires, 1864.** OCR consultado en Internet Archive, ítem `bub_gb_Wj26bzed37sC`.
+  - Figura «Larrazábal Juan Manuel», sin domicilio, en la lista de **«Corredores»**. Es decir, en 1864 estaba en el mundo de la Bolsa y el comercio.
+  - Identidad con el delator de 1837: **hipótesis**, por nombre y período.
+  - Negativo: ningún «Jordán» del linaje. Solo aparece un «Jordana Lorenzo, Belgrano 124». Tampoco hay asiento de «Mayordomo» de la Casa de Gobierno.
+- ***Registro Nacional*, vols. digitalizados por Google** (`registronaciona00/01/03argegoog`, Internet Archive), consultados por OCR.
+  - Negativo para Manuel Jordán.
+  - Solo aparecen Lorenzo y Rodolfo Jordana y un Carlos M. Larrazábal, sin vínculo aparente con este caso.
+- **HathiTrust, buscador de texto completo:** bloqueado por un control anti-robots (403). No intenté eludirlo.
+- **FamilySearch y OldNews:** quedaron delegados en una tarea aparte, que corre en la computadora del usuario con Claude in Chrome y sus propias sesiones.
