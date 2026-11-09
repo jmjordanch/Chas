@@ -386,3 +386,43 @@ Los chats del Drive mencionan el padrón de 1843 pero **no registran datos**. El
 
 - **Ramón Lista** reemplazó a Manuel en agosto de 1852. En la Sección Quinta de la sentencia, la de los perseguidos, figura un «N. Lista». Queda **pendiente** si es pariente. Conviene seguirlo para fechar la remoción de 1852.
 - **Martín Lacarra:** compañero de lista en 1840. Su hija obtuvo pensión en 1868; la viuda de Manuel, no. Es el contrapunto natural.
+
+---
+
+## Adenda 3 (9/11/2026): FamilySearch, OldNews y árboles en línea
+
+### Accesos (registro)
+
+**FamilySearch**
+- La búsqueda de registros y la API del catálogo responden **401**: piden sesión iniciada.
+- Las páginas del catálogo se arman en el navegador con JavaScript; por fuera no muestran contenido.
+- **No consultable desde esta sesión.**
+
+**OldNews.com**
+- Es un archivo de MyHeritage Ltd. Según MyHeritage, la colección argentina tiene 2.728.870 páginas en 303 títulos; no lo verifiqué en OldNews.
+- Los resultados se cargan recién después de iniciar sesión con una cuenta de MyHeritage.
+- **No consultable desde esta sesión.**
+
+**Árboles colaborativos**
+- genealogiafamiliar.net y Geneanet bloquean los accesos automatizados (403).
+- No intenté eludir esos bloqueos.
+
+### Índices (árboles colaborativos: **índice, nunca prueba**)
+
+**genealogiafamiliar.net, ficha I90579, árbol BVCZ**
+- Lo que sigue sale del resumen del buscador; no pude abrir la página.
+- «Manuel de los Santos Jordán Cesio», n. 31/10/1785, Buenos Aires.
+- **f. «2 May 1862»**. Esto **contradice** el 28/5/1862 del Legajo 6385. Probablemente sea un error del árbol. Se registra igual, sin darle valor probatorio.
+- Padres: Antonio Jordán y «Bartola Cesio González». El segundo apellido de Bártola es **un dato nuevo, a verificar**.
+- Familia 1, Manuela Mesa: Juan Manuel Jordán Mesa, n. 7/5/1820.
+- Familia 2, «Josefina» Sarratea: **Alberto Bernardino Jordán Sarratea**. Es el **primer nombre que aparece de uno de los «tres hijos chicos»** de 1863. Categoría: **hipótesis dudosa**; buscar el bautismo hacia 1853-1862.
+- Raymunda Zorrilla no figura.
+
+**Geneanet, árbol «markos1» («Apuntes genealógicos»)**
+- «Jordán Cesio, casado con Manuela Mesa, Josefina Sarratea». Tampoco figura Zorrilla.
+
+### Sobre la parroquia de la defunción
+
+- Los libros de San Ignacio (Catedral al Sud) **se quemaron en 1955**.
+- Sobreviven duplicados en el Registro Civil, sección Archivos Parroquiales (Uruguay 753), y transcripciones parciales de matrimonios hechas por Vásquez Mansilla, publicadas en los boletines del Instituto Argentino de Ciencias Genealógicas en los años 70. Fuente: apellidositalianos.com.ar; prensagenealogica.com.ar, 6/2019.
+- No encontré en línea ninguna constancia de que la colección de FamilySearch «Argentina, Capital Federal, Catholic Church Records, 1640-1978» (colección 1974184) incluya defunciones de 1862 de San Ignacio. **Pendiente**: verificarlo con sesión iniciada.
