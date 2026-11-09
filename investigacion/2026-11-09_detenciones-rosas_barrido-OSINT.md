@@ -288,3 +288,43 @@ Fecha de consulta de todas: **9/11/2026**.
 **Obras de referencia (mapa, no prueba)**
 12. «Juan Manuel de Larrazábal», revisionistas.com.ar (cita a Yaben, J. R., *Biografías argentinas y sudamericanas*, 1939). https://www.revisionistas.com.ar/?p=4909
 13. «Biografía de Juan Manuel Larrazábal», todo-argentina.net. https://www.todo-argentina.net/biografias-argentinas/juan_manuel_larrazabal.php?id=527
+
+---
+
+## Adenda (9/11/2026): inventario de 1965 del AGN de Uruguay
+
+**Fuente:** Archivo General de la Nación (Uruguay), *Inventario de los fondos documentales del Archivo General de la Nación. Catálogo de libros del ex "Archivo General Administrativo"*, Montevideo, 1965. Al final trae además el catálogo del ex Archivo y Museo Histórico Nacional.
+- Copia en Internet Archive: https://archive.org/details/inventario-de-los-fondos-documentales-del-archivo-general-de-la-nacion-uruguay-1965
+- Números de libro leídos del PDF con el texto en columnas (pdftotext con la opción `-layout`). El OCR plano de la página «stream» desalinea títulos y números.
+- Es un instrumento de descripción: sirve como mapa, no prueba presencia de nadie.
+
+### Verificación de procedencia del padrón de 1843 (§2)
+
+| N.º de libro | Título en el inventario |
+|---|---|
+| 107 | Padrón de Montevideo. Habitantes y rodados de toda clase. 1843 (asiento de Juan Manuel Jordan, 23, panadero) |
+| 256 | Padrón de Montevideo. Habitantes. 1843 |
+| 263 | Padrón de Montevideo. 1843 (hogar de calle Camacuá 47) |
+
+**Probado:** los números que da la base de Udelar corresponden a padrones de 1843 en el inventario oficial. Lo que sigue pendiente es el cotejo del asiento contra la imagen del libro.
+
+### Series nuevas para datar la salida y la estadía (consulta presencial)
+
+| N.º de libro | Serie | Qué puede resolver |
+|---|---|---|
+| **374** | Pasajeros presentados a la Policía. 1841-1845 | **Fecha de llegada a Montevideo**, anterior a noviembre de 1842. Es la serie más directa. |
+| **376** | Pasaportes expedidos. 1836-1846 | Salidas desde Montevideo, por ejemplo viajes de algún miembro de la familia. |
+| 373 | Entrada de buques. 1841-1845 | Buque y fecha, si el n.º 374 da una pista. |
+| 556 | Entradas de cabotaje. 1839-1843 | Entradas por cabotaje. |
+| 255 | Padrón de Montevideo. Población. Fincas y casas de comercio. 1841-1844 | Posible presencia en 1842. |
+| 686 / 687 | Padrones de Montevideo. 1849 / 1850 | Continuidad del hogar durante el Sitio Grande. |
+| 264 | Padrón de Montevideo. 4.ª sección. 1850 | Ídem. |
+| 257 / 265 / 258 | Padrón de Montevideo. 1852 / 1852-1853 / 1853 | Quiénes de la familia quedaron en Montevideo tras el regreso de Manuel a Buenos Aires con la División Oriental. |
+| 1392 | Índice. Ministerio de Guerra. Defensa de Montevideo. 1846 | Índice que puede remitir al legajo de Manuel como «oficial» en 1843. |
+
+En la grilla de lectura, los números 374 y 376 están alineados en la misma columna que sus títulos. Hay un riesgo de error de lectura, menor. Conviene confirmarlo en la sala.
+
+### Negativos
+
+- La sección «Listas de Revista» de este catálogo cubre regimientos coloniales y de las primeras décadas. **No incluye listas de revista de la Defensa de Montevideo (1843-1851)** ni de la División Oriental de 1851-1852. Esas series deben estar en el fondo del Ministerio de Guerra y Marina, organizado por cajas, que no figura en este volumen.
+- No aparecen «Jordán» ni «Larrazábal» en el catálogo de cajas del ex Museo Histórico. Era de esperar: es un catálogo por carpeta, no por persona.
