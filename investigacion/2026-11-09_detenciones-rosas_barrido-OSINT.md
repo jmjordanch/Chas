@@ -328,3 +328,61 @@ En la grilla de lectura, los números 374 y 376 están alineados en la misma col
 
 - La sección «Listas de Revista» de este catálogo cubre regimientos coloniales y de las primeras décadas. **No incluye listas de revista de la Defensa de Montevideo (1843-1851)** ni de la División Oriental de 1851-1852. Esas series deben estar en el fondo del Ministerio de Guerra y Marina, organizado por cajas, que no figura en este volumen.
 - No aparecen «Jordán» ni «Larrazábal» en el catálogo de cajas del ex Museo Histórico. Era de esperar: es un catálogo por carpeta, no por persona.
+
+---
+
+## Adenda 2 (9/11/2026): cruce con el archivo de investigación del Drive
+
+**Archivos leídos:** carpeta de investigación del Drive del usuario, chats exportados 04, 06, 07, 08, 09, 10 y 12. Los chats contienen transcripciones del Legajo Personal 6385, del expediente de pensión (AGN, ff. 145-165) con el informe Biedma del 14/7/1920, de *La Lanceta* n.º 49 del 18/6/1853 y de la testamentaría de Bártola Sessio (AGN, Sucesiones, leg. 4863).
+- Son transcripciones hechas en esos chats. No vi las imágenes; las citas valen según esa transcripción.
+- El PDF «Solic Jordan - 6385» del Drive es un escaneo sin capa de texto y no se pudo leer directamente.
+
+### A. Correcciones expresas a este informe
+
+1. **§3.1 (el cargo de Mayordomo).** La premisa «Mayordomo 1826-agosto 1852, durante todo el gobierno de Rosas» es errónea, y el propio expediente la desmiente:
+   - **Josefa Sarratea, 22/5/1863:** «obtuvo en 1826 el empleo de mayordomo del Fuerte (Casa de Gob[ierno]) hasta la caida del Gobierno del General Balcarce, en q[ue] fué destituido p[o]r "lomo negro"».
+   - Lo confirman Enrique Martínez (f. 156, 25/7/1863) y Biedma (1920).
+   - En 1852 volvió al cargo. Fue removido el 4/8/1852 (reemplazo: Ramón Lista) y repuesto el 7/8/1853.
+   - Entonces **la pregunta 3 («cómo conservó el cargo bajo Rosas») queda disuelta: no lo conservó.** La hipótesis que puse en §3.1 (interrupción hacia 1842-43) **se corrige a cesantía en 1833.** Categoría: **probado**, por la solicitud de la viuda más dos testigos. La fecha exacta de 1833 sigue pendiente (Tomas de Razón y *Registro Oficial*).
+2. **§1.2 (sentido de la deuda).** Según *La Lanceta* (18/6/1853), Larrazábal lo delató «sin otro fundamento ni motivo que el de no haberle querido fiar por más tiempo». **El deudor era Larrazábal, no Manuel.** Después de 1833, Manuel era pulpero.
+   - La hipótesis «Cárcel de Deudores en 1837 por deuda propia» **baja a dudosa, casi descartada**.
+   - *La Lanceta* es prensa antirrosista posterior a Caseros: **fuente de parte**.
+3. **§1.1 (lugar de detención).**
+   - **1839:** **probado** en la Cárcel Pública, «arrestado en la Cárcel pública e incomunicado», según la testamentaría de Bártola Sessio (AGN, Sucesiones, leg. 4863, 5/12/1839).
+   - **1840:** **hipótesis fuerte** en la Cárcel Pública. La viuda dice «sufriendo dos veces prision en la cárcel pública con grillos», y la sentencia cita testimonios de la Alcaidía de la cárcel.
+   - La viuda habla de **dos** prisiones y Biedma de **tres**. **Contradicción registrada, sin resolver.**
+
+### B. El asiento de 1840 sube de categoría
+
+«1840 — Manuel Jordán, 1 personero», en la sentencia de la causa contra Rosas, ahora tiene cuatro apoyos independientes:
+1. el nombre;
+2. el año 1840, según Biedma (1920), que no cita la sentencia;
+3. el mecanismo:
+   - la viuda (1863): Rosas «le obligó á poner personero, y […] tuvo su hijo D. Juan M. Jordan q[ue] vender su libertad, enganchándose de soldado p[ar]a con el precio de ella comprar la de su infortunado padre»;
+   - la Contaduría General (19/11/1863): el hijo se constituyó personero;
+4. un compañero de lista: Biedma dice que fue «destinado al servicio de las armas con otras personas notables […] (como el coronel D. Martín Lacarra)». En la **misma lista de 1840** de la sentencia figura «Martin Lacarra, 4 personeros» (ed. 1908, p. 42; el OCR lee «Lacerra»).
+
+**Categoría:**
+- **Hipótesis fuerte en su grado máximo** de que el asiento es Manuel de los Santos. Sube a probado con el n.º de orden y la fecha en AGN X 33-4-2, vol. 120, o en el *Índice* de Trelles, t. 2.
+- **Hipótesis fuerte:** el único personero fue su hijo Juan Manuel I.
+- **Contradicción registrada:** *La Lanceta* dice «varios personeros»; la sentencia dice 1.
+
+**Novedad para el archivo familiar:** según el chat 07, el listado de Gutiérrez (1895), p. 104, no incluía a Manuel. La sentencia de 1861, en cambio, sí lo trae (eds. 1864 y 1908).
+
+### C. Lo que aporta el padrón de Montevideo de 1843 al archivo familiar
+
+Los chats del Drive mencionan el padrón de 1843 pero **no registran datos**. El hogar de calle Camacuá 47 (Libro 263, 25/9/1843) aporta lo siguiente:
+- **Raymunda Zorrilla aparece como esposa, «casada», con 32 años, en septiembre de 1843.** Esto **corrige la hipótesis del archivo** de un casamiento en Montevideo entre 1843 y 1852 (chat 04). La unión es anterior.
+  - Es coherente con la párvula Raimunda Jordán y Zorrilla, de 2 años, sepultada con licencia del 2/3/1837 (chat 09). Eso sitúa la unión hacia 1834 o antes.
+  - **Hipótesis fuerte.**
+- **Hijos probables de Raymunda:** Manuel (13), Amelia (12) y «Filomena» (6, probablemente Filemón).
+  - Es **hipótesis**: el padrón no trae columna de parentesco.
+  - Contradice la lectura del chat 08, según la cual no se le conocen hijos.
+  - Si Raymunda nació hacia 1811, tenía unos 19 años al nacer Manuel (h). Es posible.
+- **Ciriaca:** 20 años en el padrón, 35 en el censo de 1855 y 41 a su muerte el 2/2/1860. Nacimiento hacia 1819-20. Las edades no son uniformes, como es habitual. Sería hija de Manuela Meza: **hipótesis fuerte**.
+- **Juan Manuel, 23 años, panadero (Libro 107, febrero de 1843).** Si en 1840 fue el personero de su padre, para 1842-43 ya estaba en Montevideo. Es coherente con la hipótesis del chat 07 de los «personeros desertados». Queda **pendiente** saber si desertó o si cumplió.
+
+### D. Prosopografía nueva
+
+- **Ramón Lista** reemplazó a Manuel en agosto de 1852. En la Sección Quinta de la sentencia, la de los perseguidos, figura un «N. Lista». Queda **pendiente** si es pariente. Conviene seguirlo para fechar la remoción de 1852.
+- **Martín Lacarra:** compañero de lista en 1840. Su hija obtuvo pensión en 1868; la viuda de Manuel, no. Es el contrapunto natural.
