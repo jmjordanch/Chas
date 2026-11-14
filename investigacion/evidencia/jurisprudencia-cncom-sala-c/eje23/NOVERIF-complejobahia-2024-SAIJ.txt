@@ -1,0 +1,15 @@
+https://www.saij.gob.ar/view-document?guid=123456789-0abc-defg7699-300nsoiramus
+caratula: Complejo Bahía SA  c/  s/ quiebra s/ incidente
+fecha: 2024-07-04
+tipo-tribunal: CO
+instancia: C
+id-infojus: SUN0039967
+numero-sumario: N0039967
+fuente: OFICIAL
+titulo: Derecho procesal, medidas cautelares, medida de no innovar, improcedencia del recurso, fideicomiso
+TEXTO: 
+La pretensión de decretar una medida de no innovar sobre un inmueble que constituye el patrimonio fideicomitido no puede ser admitida -[[r uuid:CT001]]CCCN 1682[[/r uuid:CT001]] y [[r uuid:CT002]]1685[[/r uuid:CT002]]-. Bajo tales normas, es claro que el inmueble afectado al fideicomiso no puede ser alcanzado por la medida de que se trata, para cautelar los derechos invocados contra los fiduciantes y los fiduciarios que participaron en los negocios cuestionados.
+
+
+=== TEXTO NORMALIZADO (saltos de línea y espacios múltiples colapsados en un espacio) ===
+caratula: Complejo Bahía SA c/ s/ quiebra s/ incidente fecha: 2024-07-04 tipo-tribunal: CO instancia: C id-infojus: SUN0039967 numero-sumario: N0039967 fuente: OFICIAL titulo: Derecho procesal, medidas cautelares, medida de no innovar, improcedencia del recurso, fideicomiso TEXTO: La pretensión de decretar una medida de no innovar sobre un inmueble que constituye el patrimonio fideicomitido no puede ser admitida -[[r uuid:CT001]]CCCN 1682[[/r uuid:CT001]] y [[r uuid:CT002]]1685[[/r uuid:CT002]]-. Bajo tales normas, es claro que el inmueble afectado al fideicomiso no puede ser alcanzado por la medida de que se trata, para cautelar los derechos invocados contra los fiduciantes y los fiduciarios que participaron en los negocios cuestionados. 

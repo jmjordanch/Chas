@@ -1,0 +1,552 @@
+Extractos literales (pdftotext) de los Boletines de Jurisprudencia del PJN – Oficina de Jurisprudencia. Cada bloque indica el boletín, su URL oficial y el número de sumario.
+
+================ Boletín de Jurisprudencia 9 (Octubre 2024)  — https://pjn-documento-api.pjn.gov.ar/api/documento/adjunto/201186
+##### b201186.txt 157
+
+157. CUESTIONES PROCESALES. MEDIDA CAUTELAR. CPR 208. IMPROCEDENCIA.
+Corresponde rechazar la medida cautelar pretendida por la recurrente para asegurar los daños
+y perjuicios que la inhibición general de bienes trabada a requerimiento de su contraparte le
+habría ocasionado -CPR 208-. Ello puesto que el recaudo de verosimilitud en el derecho no se
+avizora satisfecho en la especie, dado que las meras alegaciones de que el cautelante hubiese
+incurrido en abuso al obtener aquella medida resultan insuficientes para tener por cumplido el
+requisito señalado. Adicionalmente se ha puntualizado que la sinrazón del requirente en la
+traba de la medida solicitada pudiera llegar a advertirse desde el inicio o durante el curso del
+procedimiento, lo cierto es que esa responsabilidad no podría hacerse valer sino hasta la
+sentencia de fondo que confirme la sinrazón definitiva del requirente. Asimismo, la falta de
+arraigo son inconducentes para decidir la cuestión (CCCN 2610).
+Referencias Bibliográficas
+Camps, “Tratado de las medidas cautelares”, T. I, pág. 546, edit. Abeledo Perrot y jurisprudencia allí citada.
+COM 16764/2018/3
+VERONESI, JOSE MARIA C/ VERONESI, JUAN CRUZ Y OTROS S/ ORDINARIO S/
+INCIDENTE DE MEDIDA CAUTELAR.
+Fecha del fallo: 28-10-2024
+CAMARA COMERCIAL - SALA C
+Machin - Ballerini - Tevez (Sala integrada por subrogancia).
+
+##### b201186.txt 158
+
+158. CUESTIONES PROCESALES. MEDIDA CAUTELAR. EMBARGO. SUSTITUCION.
+EMBARGO DE CUENTA BANCARIA POR AUTOMOVIL. IMPROCEDENCIA.
+Corresponde rechazar la sustitución del embargo sobre los fondos existentes en una cuenta
+bancaria por un automóvil usado. En tanto la seguridad que brinda el dinero líquido es mucho
+mayor que el rendimiento que puede brindar el rodado usado, en caso, de venta que, a ciencia
+cierta, no se puede asegurar de antemano. Cuando el reemplazo de la medida cautelar es
+pedido por el afectado, este tendrá que demostrar que la medida obtenida por su contraria le
+ocasiona perjuicios innecesarios y que la que propone cubre adecuadamente las necesidades
+de su oponente.
+Referencias Jurisprudenciales
+Rivas, Adolfo A., "Medidas cautelares", Lexis Nexis, Bs. As., 2007, p. 68.
+COM 23678/2023/1
+GARANTIZAR SGR C/ NH 3.0 SA Y OTROS S/ EJECUTIVO.
+Fecha del fallo: 15-10-2024
+CAMARA COMERCIAL - SALA C
+Machin - Ballerini - Tevez (Sala integrada por subrogancia).
+
+##### b201186.txt 159
+
+159. CUESTIONES PROCESALES. MEDIDA PRECAUTORIA. EMBARGO PREVENTIVO.
+FIDUCIARIA. IMPROCEDENCIA. CCCN 1687.
+                                                           69
+                                Poder Judicial de la Nación
+                                Boletín de Jurisprudencia 9
+Cabe rechazar la medida cautelar pretendida por el actor, de embargo de los fondos existentes
+en las cuentas bancarias de titularidad de la fiduciaria. Ello puesto que la pretensión de agredir
+directamente los bienes del fiduciario se desentiende de la regla según la cual, y en principio,
+esos bienes no responden por las obligaciones contraídas en la ejecución del fideicomiso
+(CCCN 1687). A mayor abundamiento, no aparecen respaldadas con los elementos arrimados
+por el apelante la falta de información y omisión de contratar el seguro al que refiere el CCCN
+1685 que le endilga a título personal al fututo demandado.
+COM 12170/2024
+CRUZ QUIVAL, GUILLERMO ANTONIO C/ PROMOTORA FIDUCIARIA SA S/ SUMARISIMO.
+Fecha del fallo: 21-10-2024
+CAMARA COMERCIAL - SALA C
+Machin - Ballerini - Tevez (Sala integrada por subrogancia).
+
+##### b201186.txt 160
+
+160. CUESTIONES PROCESALES. MEDIDA PRECAUTORIA. EMBARGO PREVENTIVO.
+FIDUCIARIA. IMPROCEDENCIA. CCCN 1687.
+Cabe rechazar la medida cautelar pretendida por el actor, de embargo de cuentas bancarias de
+la fiduciaria demandada. Ello por cuanto, aun cuando se admitiera que no estamos frente a un
+“certificado de participación” sino ante un “título representativo de deuda” que, a diferencia de
+lo que sucede con los primeros, la ley sí le otorga derecho a su titular a reclamar por vía
+ejecutiva (CCCN 1693 y 1694 in fine), lo cierto es que la medida solicitada resulta igualmente
+improcedente. Ello así, por cuanto la pretensión de agredir directamente los bienes del
+fiduciario se desentiende de la regla según la cual, y en principio, esos bienes no responden
+por las obligaciones contraídas en la ejecución del fideicomiso (CCCN 1687).
+COM 12170/2024
+CRUZ QUIVAL, GUILLERMO ANTONIO C/ PROMOTORA FIDUCIARIA SA S/ SUMARISIMO.
+Fecha del fallo: 21-10-2024
+CAMARA COMERCIAL - SALA C
+Machin - Ballerini - Tevez (Sala integrada por subrogancia).
+
+##### b201186.txt 167
+
+167. CUESTIONES PROCESALES. MEDIDAS CAUTELARES. EMBARGO. PROCEDENCIA.
+CPR 212-3º. SENTENCIA RECURRIDA. EFECTOS.
+Cabe confirmar el embargo preventivo dispuesto en los términos del CPR 212-3º aunque la
+sentencia definitiva se encuentre recurrida, Ello por cuanto el acreedor peticionante no precisa
+acreditar los extremos requeridos para las medidas cautelares, puesto que la verosimilitud del
+derecho ha merecido reconocimiento; mientras que sobre el peligro en la demora nada expresa
+tal norma, por lo que cabe entenderlo inexigible en el supuesto que tratamos.
+Referencias Bibliográficas
+Kielmanovich, Jorge L., "Código Procesal Civil y Comercial de la Nación", Abeledo - Perrot, Bs. As., 2010, t. I, p.
+510/11; Colombo, Carlos J. - Kiper, Claudio M., "Código Procesal Civil y Comercial de la Nación", La Ley, Bs. As.,
+2006, t. II, p. 612.
+COM 10482/2022
+SERENA SRL C/ PRODUCTORES DE FRUTAS ARGENTINAS COOPERATIVA DE
+SEGUROS LTDA. S/ ORDINARIO.
+Fecha del fallo: 15-10-2024
+CAMARA COMERCIAL - SALA C
+Machin - Ballerini - Tevez (Sala integrada por subrogancia).
+
+
+================ Boletín de Jurisprudencia 4 (Mayo 2025)  — https://pjn-documento-api.pjn.gov.ar/api/documento/adjunto/204845
+##### b204845.txt 88
+
+88. CONTRATO DE FIDEICOMISO. FIDUCIANTES PLURALES. ACCION CONTRA UNO.
+IMPROCEDENCIA. FALTA DE LEGITIMACION. FIDEICOMISO. FIDUCIARIO. REMOCION.
+IMPROCEDENCIA.
+Corresponde rechazar la acción de remoción del fiduciario deducido por uno de los fiduciantes
+de cierto fideicomiso. Ello por carecer de uno de los requisitos básicos para su admisibilidad,
+                          47
+como es su legitimación . Al respecto, se ha sostenido que si los fiduciantes son plurales,
+como en el presente caso, todo ellos deben ser citados, salvo que el contrato determine reglas
+                                                                         48
+especiales a los efectos de representar los intereses de estos últimos . Como es claro, el
+presente pedido de remoción pretende modificar uno de los elementos del contrato de
+fideicomiso y, ante la existencia de fiduciantes plurales, no puede dictarse una sentencia útil
+cuando existen otros sujetos involucrados a quienes vayan a extenderse los efectos de la cosa
+juzgada y puedan verse afectados. Ello sin perjuicio de que la acción pueda ser nuevamente
+                                                 49
+intentada en otro proceso debidamente integrado .
+COM 5929/2020
+FERNANDEZ BALAGUE, EMILIANO SEBASTIAN C/ FIDUCIARIA DUAR SA EN SU
+CARACTER DE FIDUCIARIO DEL FIDEICOMISO SPRINGPARK S/ ORDINARIO.
+Fecha del fallo: 13-05-2025
+CAMARA COMERCIAL - SALA C
+Machin - Ballerini - Tevez (Sala integrada por subrogancia).
+
+##### b204845.txt 149
+
+149. CUESTIONES PROCESALES. MEDIDAS CAUTELARES. EMBARGO PREVENTIVO.
+INDETERMINACION. IMPROCEDENCIA.
+Cabe rechazar el embargo preventivo sobre las cuentas que posean las demandadas en el
+sistema financiero argentino. Ello puesto que, sin perjuicio de considerar la verosimilitud en el
+derecho y el peligro en la demora que se invocan, lo relevante en el caso es que el requirente
+nada dijo acerca de cuál o cuáles serían, específicamente, las cuentas sobre las cuales
+debería recaer el embargo. En este punto no es ocioso recordar que es fundamental en la
+teoría general del embargo que éste recae sobre uno o más bienes individualizados del deudor
+                   71 72
+o eventual deudor / .
+COM 1693/2025
+ALLEGRETTI, RUBEN OSVALDO C/ CENTRAL ALCORTA SA Y OTROS S/ SUMARISIMO.
+Fecha del fallo: 14-05-2025
+CAMARA COMERCIAL - SALA C
+Machin - Ballerini - Tevez (Sala integrada por subrogancia).
+
+
+================ Boletín de Jurisprudencia 6 (Julio 2025)  — https://pjn-documento-api.pjn.gov.ar/api/documento/adjunto/206001
+##### b206001.txt 119
+
+119. CUESTIONES PROCESALES. MEDIDAS CAUTELARES. ANOTACION DE LITIS.
+DESIGNACION DE INTERVENTOR INFORMANTE. RECHAZO. PROCEDENCIA.
+Cabe revocar la resolución que ordenó una anotación de litis y designó interventor informante
+en los términos del CPR 224 con sujeción a lo previsto por el art. 225-2º del mismo código en
+relación a cierto fideicomiso. No se desconoce que una posible obstaculización del ejercicio del
+derecho de información por parte del fiduciario hacia el apelante (que reviste el carácter de
+fiduciante), fundamentalmente ante la eventual falta de una rendición de cuentas de lo actuado
+o la omisión de una exhibición de la contabilidad, podría configurar una conducta en violación a
+la ley o al contrato, pero ello no supone -de por sí- la existencia de peligro grave a la
+subsistencia del fideicomiso, que es lo relevante para disponer su intervención -cfr. CCCN
+                               69
+1679, tercer párrafo in fine- . A más, en la especie, no sólo que no se observa que el
+patrimonio fideicomitido estuviera en riesgo, sino que tampoco se aprecia suficiente
+verosimilitud en el derecho, en tanto nunca se suscribió el contrato de desarrollo que debía
+celebrarse. En consecuencia, si la accionante no asumió el carácter de desarrolladora, no luce
+manifiesto el interés tutelable cautelarmente que justifique la intervención ordenada en primera
+instancia. La anotación de litis, también debe rechazarse al no estar firmado el contrato de
+desarrollo y no haberse realizado las obras de construcción. Así, no se observa verosímil el
+derecho invocado por el actor.
+COM 19984/2024/1
+AVILIS SA C/ PROMOTORA FIDUCIARIA SA S/ ORDINARIO S/ INCIDENTE ART 250.
+Fecha del fallo: 16-07-2025
+CAMARA COMERCIAL - SALA E
+Kölliker Frers - Chomer - Vásquez (Sala integrada por subrogancia).
+68
+     CNCom, Sala D, in re “Wal-Mart Argentina SRL c/ Grainco SA y otro s/ medida precautoria”, del 18/10/16.
+69
+     CNCom, esta Sala E, 13/04/21, “Topola, Alejandro Daniel c/ New Fisa SA s/ Medida Precautoria”
+                                                           50
+                               Poder Judicial de la Nación
+                               Boletín de Jurisprudencia 6
+
+
+================ Boletín de Jurisprudencia 9 (Octubre 2025)  — https://pjn-documento-api.pjn.gov.ar/api/documento/adjunto/208619
+##### b208619.txt 141
+
+141.  CUESTIONES    PROCESALES.    MEDIDAS      CAUTELARES.                        EMBARGO.
+IMPROCEDENCIA. AUSENCIA DE VEROSIMILITUD EN EL DERECHO.
+Corresponde rechazar el embargo sobre la cuenta de dos de las personas físicas
+codemandadas, pretendida por la accionante recurrente con fundamento en aplicar respecto de
+ella la inoponibilidad de la personalidad jurídica previsto por la LGS 54. Ello da cuenta de la
+necesidad de acudir a un examen relativamente complejo de la relación entre los mencionados
+coaccionados y la sociedad demandada. Ese tipo de examen requiere una actividad
+argumental y probatoria que no puede hacerse en el temprano, unilateral y limitado marco
+cognoscitivo de las medidas precautorias.
+COM 10133/2025
+FERNANDEZ, JOSE EDUARDO Y OTRO C/ BUMBER SA Y OTROS S/ SUMARISIMO.
+Fecha del fallo: 08-10-2025
+CAMARA COMERCIAL - SALA C
+Machin - Ballerini - Tevez (Sala integrada por subrogancia).
+
+##### b208619.txt 142
+
+142.  CUESTIONES     PROCESALES.     MEDIDAS    CAUTELARES.    EMBARGO.
+IMPROCEDENCIA. CPR 209. AUSENCIA DE VEROSIMILITUD EN EL DERECHO.
+Cabe rechazar el embargo pretendido, sobre cuentas de las personas físicas codemandadas,
+por cuanto, la procedencia de la medida solicitada se encuentra subordinada a la concurrencia
+de los recaudos previstos en el CPR 209. Y en la especie, no se cuenta en estas actuaciones
+más que con lo que sería un instrumento privado, sin certificación de firmas, y sin que la firma
+que allí se lee -supuestamente de quien sería representante de la sociedad demandada- haya
+sido abonada por medio de información sumaria. No se desconoce que los peticionantes del
+embargo han ofrecido en la demanda prueba pericial caligráfica dirigida a comprobar la
+autenticidad de aquella firma, si es desconocida por la codemandada. Pero, por haberse
+ofrecido dicho medio de prueba sólo para el momento posterior a la contestación de demanda,
+no suple ahora, en este estadio precautorio, el faltante de información sumaria o de alguna otra
+constancia o medio.
+COM 10133/2025
+FERNANDEZ, JOSE EDUARDO Y OTRO C/ BUMBER SA Y OTROS S/ SUMARISIMO.
+Fecha del fallo: 08-10-2025
+CAMARA COMERCIAL - SALA C
+Machin - Ballerini - Tevez (Sala integrada por subrogancia).
+
+
+================ Boletín de Jurisprudencia 2 (Marzo 2026)  — https://pjn-documento-api.pjn.gov.ar/api/documento/adjunto/211059
+##### b211059.txt 108
+
+108. CONTRATO DE COMPRAVENTA. TRANSFERENCIA DE FONDO DE COMERCIO.
+FRUSTRACION. RESPONSABILIDAD. PERDIDA DE CHANCE. IMPROCEDENCIA.
+Corresponde revocar la sentencia de grado que condenó por perdida de chance a los
+vendedores de cierto fondo de comercio por la frustración de su efectiva transferencia en favor
+de los adquirientes demandantes. Ello en virtud de la cláusula penal convenida en el contrato
+de marras, en tanto fija por anticipado la indemnización de los daños y perjuicios que deberán
+pagarse en caso de incumplimiento. El Código Civil y Comercial consagra como principio el
+carácter inmutable de la cláusula penal (conf. arts. 793 y 794, primer párrafo), de lo que deriva
+que el acreedor no puede reclamar un resarcimiento superior al convenido, ni el deudor
+eximirse de pagar la penalidad alegando que el acreedor no ha sufrido perjuicio alguno. Bajo tal
+                                               52
+                                   Poder Judicial de la Nación
+                                   Boletín de Jurisprudencia 2
+marco normativo se concluye que la indemnización ha quedado comprendida bajo la referida
+cláusula penal.
+COM 3509/2012
+PABULUM SRL Y OTRO C/ SCARANO CAROLINA ALEJANDRA Y OTRO S/ ORDINARIO.
+Fecha del fallo: 25-03-2026
+CAMARA COMERCIAL - SALA C
+Machin - Ballerini - Tevez (Sala integrada por subrogancia).
+
+##### b211059.txt 171
+
+171. CUESTIONES PROCESALES. MEDIDAS CAUTELARES. EMBARGO. SUSTITUCION.
+INMUEBLES. IMPROCEDENCIA.
+Corresponde rechazar la sustitución de embargo sobre cierto inmueble por otro bien de
+semejante condiciones físicas (v.gr. metrajes, ubicación) y valor estimativo ofrecido por el
+apelante. Ello puesto que el embargado se encuentra registralmente inscripto en un 100% a
+nombre del demandado, en tanto que el ofrecido en sustitución lo está solo en un 50% indiviso
+a nombre de aquél. Dicha diferencia de participación en la titularidad dominial de los bienes da
+cuenta que en definitiva, no es posible tener por cumplido -sino todo lo contrario- con el
+recaudo de identidad de valores al que refiere el CPR 203 para viabilizar la sustitución que se
+pretende.
+COM 19858/2022/1
+GINER, ESTER C/ MALEH, RUBEN ABRAHAM S/ INCIDENTE ART 250.
+Fecha del fallo: 02-03-2026
+CAMARA COMERCIAL - SALA C
+Machin - Ballerini - Tevez (Sala integrada por subrogancia).
+
+
+================ Boletín de Jurisprudencia 5 (Junio 2026)  — https://pjn-documento-api.pjn.gov.ar/api/documento/adjunto/213114
+##### b213114.txt 115
+
+115. CONTRATO DE FIDEICOMISO. FIDEICOMISO FINANCIERO. CARACTERES.
+La operación de inversión estructurada a través de un fideicomiso financiero de carácter
+privado, al no encontrarse sometido al régimen de oferta pública, carece del control previo
+estatal propio del mercado de capitales. En este contexto, el inversor -atraído por rendimientos
+superiores a los del mercado- asume un mayor nivel de riesgo, vinculado tanto a la calidad de
+los activos subyacentes como a la solvencia de quien garantizó el pago. Debe admitirse
+entonces que, en una operatoria de esta naturaleza, la obtención del resultado esperado
+presenta un componente aleatorio que necesariamente incide en la valoración del daño, pues
+se trata de un resultado incierto que depende de múltiples circunstancias ajenas al accionar
+                             76
+diligente o no del fiduciario . En ese marco, el fiduciario asume una obligación de medios
+consistente en actuar con la diligencia y prudencia de un buen hombre de negocios en la
+administración del patrimonio fideicomitido (CCCN 1674), lo que comprende deberes de
+control, información y resguardo del patrimonio. Sin embargo, ello no importa garantizar el
+resultado económico de la inversión de los tenedores ni el cumplimiento de las obligaciones
+asumidas por el fiduciante.
+76
+     Kiper, Claudio M. y Lisoprawski, Silvio V. “Tratado de Fideicomiso”. Ed. Rubinzal - Culzoni, 2023, t. I pág. 542.
+                                                              60
+                           Poder Judicial de la Nación
+                           Boletín de Jurisprudencia 5
+COM 15915/2023
+SESTUA, LUCIANO JAVIER C/ PROMOTORA FIDUCIARIA SA S/ SUMARISIMO.
+Fecha del fallo: 17-06-2026
+CAMARA COMERCIAL - SALA C
+Machin - Ballerini - Tevez (Sala integrada por subrogancia).
+
+##### b213114.txt 116
+
+116. CONTRATO DE FIDEICOMISO. FIDEICOMISO FINANCIERO. DEBER DE CONTRATAR
+UN SEGURO.
+Cabe tener por incumplida la obligación de la fiduciaria de contratar un seguro. Así repárese
+que el deber de aseguramiento frente a terceros aparece como una obligación indisponible del
+fiduciario, que encuentra su fundamento en el estándar de prudencia y diligencia del buen
+hombre de negocios consagrado en el CCCN 1674. La falta de contratación del seguro de
+responsabilidad civil, independientemente de la naturaleza material o inmaterial de los bienes
+fideicomitidos, trasunta una negligencia en el ejercicio de la función fiduciaria que se aparta del
+estándar profesional exigible.
+COM 15915/2023
+SESTUA, LUCIANO JAVIER C/ PROMOTORA FIDUCIARIA SA S/ SUMARISIMO.
+Fecha del fallo: 17-06-2026
+CAMARA COMERCIAL - SALA C
+Machin - Ballerini - Tevez (Sala integrada por subrogancia).
+
+##### b213114.txt 117
+
+117. CONTRATO DE FIDEICOMISO. FIDEICOMISO FINANCIERO.                               FIDUCIARIO.
+INCUMPLIMIENTO. INDEMNIZACION. PERDIDA DE CHANCE.
+Cabe condenar a la accionada por su responsabilidad, en su carácter de fiduciaria de cierto
+Fideicomiso Financiero, frente a la falta de pago de la tenencia del actor y al cumplimiento de
+los deberes legales y contractuales a su cargo. Es que la pérdida económica invocada se
+vincula con la interrupción del flujo de fondos producida cuando el fiduciante -quien además
+actuaba como agente de cobro- dejó de transferir al fideicomiso las cobranzas de los créditos
+cedidos y de aportar los recursos comprometidos para afrontar los servicios de los valores
+fiduciarios. Tal circunstancia explica la frustración del negocio y el resultado económico adverso
+finalmente experimentado por el accionante. No obstante, los incumplimientos verificados en la
+conducta de la fiduciaria -en particular, la ausencia de información periódica adecuada y la falta
+de controles eficaces sobre el agente de cobro- no resultan irrelevantes a los fines resarcitorios.
+En efecto, tales omisiones pudieron haber incidido en la posibilidad de advertir oportunamente
+el deterioro de la operatoria y de adoptar medidas destinadas a resguardar los intereses de los
+inversores. Desde esta perspectiva, lo que su conducta pudo haber frustrado no es el resultado
+final del negocio -cuya concreción dependía de múltiples factores ajenos a su control- sino la
+posibilidad del actor de adoptar decisiones destinadas a limitar o mitigar el riesgo de su
+inversión. La pretensión, por ende, sólo puede prosperar en cuanto tendiente a indemnizar la
+pérdida de la chance del accionante de evitar o atenuar el perjuicio finalmente sufrido, frustrada
+por la falta de información y control que incumbía a la fiduciaria. En tales condiciones,
+ponderando la naturaleza del negocio financiero involucrado y la incidencia que los
+incumplimientos verificados pudieron tener en la posibilidad tal de reacción temprana del
+inversor, se estima equitativo fijar la indemnización en tal concepto en el diez por ciento (10%)
+del valor nominal del título a la fecha inmediata anterior a la interrupción de los pagos. Dicha
+suma devengará intereses desde la mora, a la tasa activa del Banco de la Nación Argentina
+para operaciones de descuento de documentos a treinta (30) días, hasta el 17 de enero de
+2026, fecha de entrada en vigencia de la tasa de interés moratorio (TIM); y, a partir de
+entonces, conforme esta última, de acuerdo con lo dispuesto por el CCCN 768-c) y su
+reglamentación por el Banco Central de la República Argentina, mediante Resolución 1/26.
+                                                61
+                                   Poder Judicial de la Nación
+                                   Boletín de Jurisprudencia 5
+COM 15915/2023
+SESTUA, LUCIANO JAVIER C/ PROMOTORA FIDUCIARIA SA S/ SUMARISIMO.
+Fecha del fallo: 17-06-2026
+CAMARA COMERCIAL - SALA C
+Machin - Ballerini - Tevez (Sala integrada por subrogancia).
+
+##### b213114.txt 118
+
+118. CONTRATO DE FIDEICOMISO. FIDEICOMISO                                         FINANCIERO.           FIDUCIARIO.
+RENDICION DE CUENTAS. INCUMPLIMIENTO.
+Cabe condenar a la accionada por su responsabilidad, en su carácter de fiduciaria de cierto
+Fideicomiso Financiero, frente a la falta de pago de la tenencia del actor y al cumplimiento de
+los deberes legales y contractuales a su cargo. Es que se encuentra incumplido el deber de
+rendir cuentas. Ello en tanto, el esquema contractual no contempló la rendición de cuentas
+como una previsión meramente formal, sino como un verdadero mecanismo de control y
+transparencia en favor de los tenedores. En tal sentido, cierta cláusula del contrato imponía al
+fiduciario el deber activo de confeccionar y poner a disposición de los tenedores informes
+mensuales que permitieran conocer, de manera cierta y detallada, la marcha del negocio, el
+estado de las cobranzas y la situación del patrimonio fideicomitido. Tal diseño contractual se
+corresponde, además, con lo dispuesto por el CCCN 1676, que establece que la obligación de
+rendir cuentas es de orden público y no puede ser dispensada. De tal modo, ese deber no se
+agotaba en la mera disponibilidad pasiva de información ni en su entrega ante un eventual
+requerimiento del beneficiario, sino que exigía una actividad proactiva de fiscalización y
+comunicación periódica para garantizar que los inversores conocieran la evolución del
+patrimonio fideicomitido. En tal marco, y por aplicación del deber de colaboración que impone la
+LDC 53, recaía sobre la accionada la carga de aportar al proceso elementos que demostraran
+la confección de esos informes y la efectiva puesta a disposición, extremo que no cumplió,
+debiendo soportar las consecuencias de su propia orfandad probatoria.
+COM 15915/2023
+SESTUA, LUCIANO JAVIER C/ PROMOTORA FIDUCIARIA SA S/ SUMARISIMO.
+Fecha del fallo: 17-06-2026
+CAMARA COMERCIAL - SALA C
+Machin - Ballerini - Tevez (Sala integrada por subrogancia).
+
+##### b213114.txt 234
+
+234. CUESTIONES PROCESALES. MEDIDAS CAUTELARES. EMBARGO PREVENTIVO.
+IMPROCEDENCIA. AUSENCIA DE PELIGRO EN LA DEMORA.
+Corresponde revocar la resolución que decretó un embargo preventivo sobre las cuentas de la
+futura demandada, requerida a los efectos de asegurar la eventual sentencia favorable en el
+marco de la acción que ha de interponerse a los fines de obtener el reembolso de las sumas
+abonadas al dependiente de la accionada en virtud de un infortunio laboral. Ello pues la
+embargada habría dado en pago -según afirma la propia apelada- los importes reclamados en
+sede laboral; lo cual parece descartar la viabilidad de ese dato como indicio del peligro que se
+pretende evidenciar. Asimismo los fondos que ingresaron al expediente con motivo de la
+medida preventiva aquí dispuesta supera con creces el importe al que el apelado hizo mención
+al contestar el recurso. Bajo tales parámetros no se observa elementos que aconsejen aceptar
+una probabilidad razonable de que, en caso de arribar en el juicio principal a una sentencia
+condenatoria, ésta no pueda ser efectivizada por la obligada.
+COM 9426/2025
+SWISS MEDICAL ART SA C/ JOLUGIA SRL S/ MEDIDA PRECAUTORIA.
+Fecha del fallo: 23-06-2026
+CAMARA COMERCIAL - SALA C
+Machin - Ballerini - Tevez (Sala integrada por subrogancia).
+
+##### b213114.txt 394
+
+394. PROCESO DE EJECUCION. EJECUCION DE SENTENCIA. LIQUIDACION. RENDICION
+DE CUENTAS. INCUMPLIMIENTO.
+256
+   Fallos 308:122; esta Sala F, 22/6/17, "Estructuras y Servicios SA c/ Talleres Navales Dársena Norte SACIyN s/
+ordinario", Expte. COM N° 14789/2011.
+                                                        198
+                                Poder Judicial de la Nación
+                                Boletín de Jurisprudencia 5
+Cabe revocar la resolución que aprobó las cuentas presentadas por el actor, ante la reticencia
+del accionado. Ello por cuanto, la rendición de cuentas ordenada en la sentencia no consiste en
+el pago de una suma de dinero fijada a valores actuales, sino en la exposición integral de la
+gestión realizada, con indicación de los ingresos y egresos que ella produjo, a fin de determinar
+el saldo que eventualmente le corresponda al acreedor. Así lo establecía el CCOM 71 -vigente
+al tiempo de la operatoria-, cuyo espíritu subsiste en el CCCN 860 y siguientes. La obligación
+de rendir cuentas impuesta a la demandada exige una descripción clara, documentada y
+circunstanciada de la administración del negocio ajeno, incluyendo tanto el producto de las
+ventas como los gastos en que se incurrió para obtenerlo. Sólo después de confrontar ambas
+partidas podrá determinarse si existe un remanente en favor del actor o un saldo deudor de
+este último, y en qué medida. En otras palabras, la cuestión relativa a si los costos fueron ya
+satisfechos o no, y en qué medida, es una materia que integra la rendición misma y no puede
+ser resuelta in limine por el juez en la etapa de ejecución, suprimiendo la posibilidad de que la
+demandada ejerza adecuadamente su derecho de contradicción en los términos del CPR 652.
+Ello así, cabe disponer que en la instancia de origen se practique la rendición de cuentas
+ordenada en la sentencia definitiva.
+CIV 60153/2019
+BAUER, HECTOR ADOLFO C/ AGROPECUARIA MARIPOSA SA S/ ORDINARIO.
+Fecha del fallo: 24-06-2026
+CAMARA COMERCIAL - SALA B
+Ballerini - Vásquez.
+
+
+================ Boletín de Jurisprudencia 6 (Julio 2026)  — https://pjn-documento-api.pjn.gov.ar/api/documento/adjunto/213522
+##### b213522.txt 107
+
+107. CONTRATO DE FIDEICOMISO. RENDICION DE CUENTAS. CPR 652.
+Corresponde revocar la resolución de grado que previa intimación a rendir cuentas de la
+gestión del fiduciario accionado, aprobó las cuentas presentadas por la fiduciante actora en el
+marco de una acción -rechazada- de remoción y mando a abonar cierta suma de dinero. Dicha
+obligación si bien no ha sido debidamente satisfecha por el fiduciario, resultando insuficiente la
+remisión a antecedentes incorporados a la causa, ello no implica que deba aprobarse la cuenta
+presentada por la accionante -CPR 652-. Así, pues se trata de una reiteración ya desestimada
+y no incluye ninguna información vinculada a la gestión o funcionamiento del fideicomiso. Por el
+contrario, la aludida cuenta solo exhibe la existencia de una supuesta deuda -con total
+prescindencia del estado de cumplimiento del contrato y la situación del resto de los
+cocontratantes-, con el objeto de perseguir su cobro.
+COM 5929/2020
+FERNANDEZ BALAGUE, EMILIANO SEBASTIAN C/ FIDUCIARIA DUAR SA EN SU
+CARACTER DE FIDUCIARIO DEL FIDEICOMISO SPRINGPARK S/ ORDINARIO.
+Fecha del fallo: 15-07-2026
+CAMARA COMERCIAL - SALA C
+Machin - Ballerini - Tevez (Sala integrada por subrogancia).
+
+##### b213522.txt 119
+
+119. CONTRATO DE SUMINISTRO. RESOLUCION. IMPROCEDENCIA. ANTIJURIDICIDAD.
+PRORROGA DEL CONTRATO. PERDIDA DE CHANCE.
+Cabe modificar el pronunciamiento que condenó a la accionada a pagar a la actora en
+concepto de lucro cesante la ganancia que dejó de percibir entre el instante en que se extinguió
+la relación hasta el término en que se cumplía su plazo de duración original. Ello por cuanto, la
+petrolera le otorgó a la accionante un derecho de opción irrevocable para extender por 5 años
+el término de duración del contrato, es claro que la resolución antijurídica del contrato de
+suministro, no hace desaparecer el derecho de la reclamante a prorrogarlo ni la consiguiente
+obligación de la demandada de cumplirlo, y, esto, por cuanto, la imposibilidad fáctica y jurídica
+de alongar su vencimiento solo se produjo por un obrar antijurídico imputable a la última, lo que
+la hace responsable de los perjuicios que su obrar provocó en el patrimonio de la actora-. Tal
+probabilidad de prorrogar el contrato debe reconceptualizarse como una pérdida de chance y
+no como lucro cesante. Ello pues en definitiva se frustró a la actora la obtención de un beneficio
+económico con probabilidad suficiente de convertirse en cierto, y no la efectiva pérdida de una
+ganancia segura y determinada proveniente de una actividad lucrativa que se vio interrumpida
+o alterada por el hecho dañoso (Fallos: 344:3476).
+COM 41860/2014
+POSTA PILAR SA C/ YPF SA S/ ORDINARIO.
+Fecha del fallo: 15-07-2026
+CAMARA COMERCIAL - SALA F
+117
+   CNCom, esta Sala, mi voto, “Nizza Davidson Ingenieria y Obras SRL c/ Empresa Distribuidora Sur SA s/ ordinario”,
+Expte. Com. N° 3380/2019, del 12/8/25.
+                                                        66
+                           Poder Judicial de la Nación
+                           Boletín de Jurisprudencia 6
+Tevez - Lucchelli - Vásquez (Sala Integrada).
+
+##### b213522.txt 148
+
+148. CUESTIONES PROCESALES. MEDIDAS CAUTELARES. EMBARGO PREVENTIVO.
+CPR 209-4°. IMPROCEDENCIA.
+Corresponde revocar la resolución de grado que tras la presentación del peritaje contable (CPR
+209-4°), dispuso un embargo sobre cuentas bancarias de la accionada apelante. Ello puesto
+que el dictamen no ha sido elaborado sobre los libros de la actora (y como es obvio, ninguna
+referencia se efectuó con relación a si se encontraban o no llevados en legal forma), sino sobre
+cierta documentación que en copia certificada le fue presentada al experto (v.gr, facturas,
+constancias de ARCA, un resumen de cuentas). En ese contexto y en lo que aquí interesa, no
+cabe tener por cumplida con la exigencia que impone la norma a efectos de justificar, prima
+facie, la verosimilitud en el derecho en función del que se pretende actuar preventivamente. Es
+decir, ese dictamen no solo ha de referirse a la existencia misma del crédito, su monto y
+exigibilidad según los asientos, sino también sobre si los libros en que se verifica la misma
+reúnen los requisitos de la ley de fondo y de cuya concurrencia depende la eficacia de la
+        136
+prueba .
+136
+      Kielmanovich, “Código procesal. Comentado y anotado”, T. I, pág. 502, edit. Abeledo Perrot.
+                                                            79
+                           Poder Judicial de la Nación
+                           Boletín de Jurisprudencia 6
+COM 1057/2026/2
+GLOBAL MEDICA SA C/ OBRA SOCIAL DE LA UNION PERSONAL DEL PERSONAL CIVIL
+DE LA NACION S/ INCIDENTE DE APELACION.
+Fecha del fallo: 14-07-2026
+CAMARA COMERCIAL - SALA C
+Machin - Ballerini - Tevez (Sala integrada por subrogancia).
+
+
+================ Boletín de Jurisprudencia 9 (Octubre 2024)  — https://pjn-documento-api.pjn.gov.ar/api/documento/adjunto/201186
+##### b201186.txt 169
+
+169. CUESTIONES PROCESALES. MEDIDAS CAUTELARES. PROCEDENCIA. ACCION DE
+NULIDAD DE VENTA DE ACCIONES SOCIETARIAS: ANOTACION DE LITIS.
+1 - Corresponde admitir la pretensión cautelar de anotación de litis en el libro de acciones,
+solicitada por la promotora de una demanda de nulidad de venta del paquete accionario, en
+cuyo marco denuncia que se trató de una maniobra tendiente a sustraer tales bienes de la
+división de la sociedad conyugal.
+2 - Ello así, en tanto tal medida no exige una rigurosa carga de admisibilidad, por resultar
+menos grave (conf. CNCom, Sala D, in re “Imfeld O´Farrell, Diana c/ Fideicomiso Roosevelt
+4063 y otros s/ ordinario”, del 24/02/22; Morello, A., “Códigos Procesales de la Provincia de
+Buenos Aires y de la Nación, comentados y anotados”, La Plata – Buenos Aires, 1986, t. II-C, p.
+948). Y dado que es una medida de seguridad ante la acreditación de un peligro abstracto, no
+resulta indispensable el periculum in mora (conf. CNCom, Sala D, in re “Monjo, Ezequiel
+Alejandro c/ González, Sergio y otros s/ ordinario”, del 06/10/22; Colombo, C. y Kiper, C.,
+“Código Procesal Civil y Comercial de la Nación, anotado y comentado”, Buenos Aires, 2006, t.
+II, p. 771, nº 5; y otros autores).
+Referencias Bibliográficas
+Morello, A., “Códigos Procesales de la Provincia de Buenos Aires y de la Nación, comentados y anotados”, La Plata –
+Buenos Aires, 1986, t. II-C, p. 948. Colombo, C. y Kiper, C., “Código Procesal Civil y Comercial de la Nación, anotado y
+comentado”, Buenos Aires, 2006, t. II, p. 771, nº 5; y otros autores.
+Referencias Jurisprudenciales
+CNCom, Sala D, in re “Imfeld O´Farrell, Diana c/ Fideicomiso Roosevelt 4063 y otros s/ ordinario”, del 24/02/22.
+CNCom, Sala D, in re “Monjo, Ezequiel Alejandro c/ González, Sergio y otros s/ ordinario”, del 06/10/22.
+COM 17792/2024
+GUETMONOVITCH, MARIELA YANINA C/ LIVI, MIGUEL MAXIMILIANO S/ ORDINARIO.
+Fecha del fallo: 29-10-2024
+CAMARA COMERCIAL - SALA D
+Heredia - Vassallo.
+
+
+
+### TEXTO NORMALIZADO (mismo contenido, espacios y saltos de línea colapsados, para búsqueda literal)
+Extractos literales (pdftotext) de los Boletines de Jurisprudencia del PJN – Oficina de Jurisprudencia. Cada bloque indica el boletín, su URL oficial y el número de sumario. ================ Boletín de Jurisprudencia 9 (Octubre 2024) — https://pjn-documento-api.pjn.gov.ar/api/documento/adjunto/201186 ##### b201186.txt 157 157. CUESTIONES PROCESALES. MEDIDA CAUTELAR. CPR 208. IMPROCEDENCIA. Corresponde rechazar la medida cautelar pretendida por la recurrente para asegurar los daños y perjuicios que la inhibición general de bienes trabada a requerimiento de su contraparte le habría ocasionado -CPR 208-. Ello puesto que el recaudo de verosimilitud en el derecho no se avizora satisfecho en la especie, dado que las meras alegaciones de que el cautelante hubiese incurrido en abuso al obtener aquella medida resultan insuficientes para tener por cumplido el requisito señalado. Adicionalmente se ha puntualizado que la sinrazón del requirente en la traba de la medida solicitada pudiera llegar a advertirse desde el inicio o durante el curso del procedimiento, lo cierto es que esa responsabilidad no podría hacerse valer sino hasta la sentencia de fondo que confirme la sinrazón definitiva del requirente. Asimismo, la falta de arraigo son inconducentes para decidir la cuestión (CCCN 2610). Referencias Bibliográficas Camps, “Tratado de las medidas cautelares”, T. I, pág. 546, edit. Abeledo Perrot y jurisprudencia allí citada. COM 16764/2018/3 VERONESI, JOSE MARIA C/ VERONESI, JUAN CRUZ Y OTROS S/ ORDINARIO S/ INCIDENTE DE MEDIDA CAUTELAR. Fecha del fallo: 28-10-2024 CAMARA COMERCIAL - SALA C Machin - Ballerini - Tevez (Sala integrada por subrogancia). ##### b201186.txt 158 158. CUESTIONES PROCESALES. MEDIDA CAUTELAR. EMBARGO. SUSTITUCION. EMBARGO DE CUENTA BANCARIA POR AUTOMOVIL. IMPROCEDENCIA. Corresponde rechazar la sustitución del embargo sobre los fondos existentes en una cuenta bancaria por un automóvil usado. En tanto la seguridad que brinda el dinero líquido es mucho mayor que el rendimiento que puede brindar el rodado usado, en caso, de venta que, a ciencia cierta, no se puede asegurar de antemano. Cuando el reemplazo de la medida cautelar es pedido por el afectado, este tendrá que demostrar que la medida obtenida por su contraria le ocasiona perjuicios innecesarios y que la que propone cubre adecuadamente las necesidades de su oponente. Referencias Jurisprudenciales Rivas, Adolfo A., "Medidas cautelares", Lexis Nexis, Bs. As., 2007, p. 68. COM 23678/2023/1 GARANTIZAR SGR C/ NH 3.0 SA Y OTROS S/ EJECUTIVO. Fecha del fallo: 15-10-2024 CAMARA COMERCIAL - SALA C Machin - Ballerini - Tevez (Sala integrada por subrogancia). ##### b201186.txt 159 159. CUESTIONES PROCESALES. MEDIDA PRECAUTORIA. EMBARGO PREVENTIVO. FIDUCIARIA. IMPROCEDENCIA. CCCN 1687. 69 Poder Judicial de la Nación Boletín de Jurisprudencia 9 Cabe rechazar la medida cautelar pretendida por el actor, de embargo de los fondos existentes en las cuentas bancarias de titularidad de la fiduciaria. Ello puesto que la pretensión de agredir directamente los bienes del fiduciario se desentiende de la regla según la cual, y en principio, esos bienes no responden por las obligaciones contraídas en la ejecución del fideicomiso (CCCN 1687). A mayor abundamiento, no aparecen respaldadas con los elementos arrimados por el apelante la falta de información y omisión de contratar el seguro al que refiere el CCCN 1685 que le endilga a título personal al fututo demandado. COM 12170/2024 CRUZ QUIVAL, GUILLERMO ANTONIO C/ PROMOTORA FIDUCIARIA SA S/ SUMARISIMO. Fecha del fallo: 21-10-2024 CAMARA COMERCIAL - SALA C Machin - Ballerini - Tevez (Sala integrada por subrogancia). ##### b201186.txt 160 160. CUESTIONES PROCESALES. MEDIDA PRECAUTORIA. EMBARGO PREVENTIVO. FIDUCIARIA. IMPROCEDENCIA. CCCN 1687. Cabe rechazar la medida cautelar pretendida por el actor, de embargo de cuentas bancarias de la fiduciaria demandada. Ello por cuanto, aun cuando se admitiera que no estamos frente a un “certificado de participación” sino ante un “título representativo de deuda” que, a diferencia de lo que sucede con los primeros, la ley sí le otorga derecho a su titular a reclamar por vía ejecutiva (CCCN 1693 y 1694 in fine), lo cierto es que la medida solicitada resulta igualmente improcedente. Ello así, por cuanto la pretensión de agredir directamente los bienes del fiduciario se desentiende de la regla según la cual, y en principio, esos bienes no responden por las obligaciones contraídas en la ejecución del fideicomiso (CCCN 1687). COM 12170/2024 CRUZ QUIVAL, GUILLERMO ANTONIO C/ PROMOTORA FIDUCIARIA SA S/ SUMARISIMO. Fecha del fallo: 21-10-2024 CAMARA COMERCIAL - SALA C Machin - Ballerini - Tevez (Sala integrada por subrogancia). ##### b201186.txt 167 167. CUESTIONES PROCESALES. MEDIDAS CAUTELARES. EMBARGO. PROCEDENCIA. CPR 212-3º. SENTENCIA RECURRIDA. EFECTOS. Cabe confirmar el embargo preventivo dispuesto en los términos del CPR 212-3º aunque la sentencia definitiva se encuentre recurrida, Ello por cuanto el acreedor peticionante no precisa acreditar los extremos requeridos para las medidas cautelares, puesto que la verosimilitud del derecho ha merecido reconocimiento; mientras que sobre el peligro en la demora nada expresa tal norma, por lo que cabe entenderlo inexigible en el supuesto que tratamos. Referencias Bibliográficas Kielmanovich, Jorge L., "Código Procesal Civil y Comercial de la Nación", Abeledo - Perrot, Bs. As., 2010, t. I, p. 510/11; Colombo, Carlos J. - Kiper, Claudio M., "Código Procesal Civil y Comercial de la Nación", La Ley, Bs. As., 2006, t. II, p. 612. COM 10482/2022 SERENA SRL C/ PRODUCTORES DE FRUTAS ARGENTINAS COOPERATIVA DE SEGUROS LTDA. S/ ORDINARIO. Fecha del fallo: 15-10-2024 CAMARA COMERCIAL - SALA C Machin - Ballerini - Tevez (Sala integrada por subrogancia). ================ Boletín de Jurisprudencia 4 (Mayo 2025) — https://pjn-documento-api.pjn.gov.ar/api/documento/adjunto/204845 ##### b204845.txt 88 88. CONTRATO DE FIDEICOMISO. FIDUCIANTES PLURALES. ACCION CONTRA UNO. IMPROCEDENCIA. FALTA DE LEGITIMACION. FIDEICOMISO. FIDUCIARIO. REMOCION. IMPROCEDENCIA. Corresponde rechazar la acción de remoción del fiduciario deducido por uno de los fiduciantes de cierto fideicomiso. Ello por carecer de uno de los requisitos básicos para su admisibilidad, 47 como es su legitimación . Al respecto, se ha sostenido que si los fiduciantes son plurales, como en el presente caso, todo ellos deben ser citados, salvo que el contrato determine reglas 48 especiales a los efectos de representar los intereses de estos últimos . Como es claro, el presente pedido de remoción pretende modificar uno de los elementos del contrato de fideicomiso y, ante la existencia de fiduciantes plurales, no puede dictarse una sentencia útil cuando existen otros sujetos involucrados a quienes vayan a extenderse los efectos de la cosa juzgada y puedan verse afectados. Ello sin perjuicio de que la acción pueda ser nuevamente 49 intentada en otro proceso debidamente integrado . COM 5929/2020 FERNANDEZ BALAGUE, EMILIANO SEBASTIAN C/ FIDUCIARIA DUAR SA EN SU CARACTER DE FIDUCIARIO DEL FIDEICOMISO SPRINGPARK S/ ORDINARIO. Fecha del fallo: 13-05-2025 CAMARA COMERCIAL - SALA C Machin - Ballerini - Tevez (Sala integrada por subrogancia). ##### b204845.txt 149 149. CUESTIONES PROCESALES. MEDIDAS CAUTELARES. EMBARGO PREVENTIVO. INDETERMINACION. IMPROCEDENCIA. Cabe rechazar el embargo preventivo sobre las cuentas que posean las demandadas en el sistema financiero argentino. Ello puesto que, sin perjuicio de considerar la verosimilitud en el derecho y el peligro en la demora que se invocan, lo relevante en el caso es que el requirente nada dijo acerca de cuál o cuáles serían, específicamente, las cuentas sobre las cuales debería recaer el embargo. En este punto no es ocioso recordar que es fundamental en la teoría general del embargo que éste recae sobre uno o más bienes individualizados del deudor 71 72 o eventual deudor / . COM 1693/2025 ALLEGRETTI, RUBEN OSVALDO C/ CENTRAL ALCORTA SA Y OTROS S/ SUMARISIMO. Fecha del fallo: 14-05-2025 CAMARA COMERCIAL - SALA C Machin - Ballerini - Tevez (Sala integrada por subrogancia). ================ Boletín de Jurisprudencia 6 (Julio 2025) — https://pjn-documento-api.pjn.gov.ar/api/documento/adjunto/206001 ##### b206001.txt 119 119. CUESTIONES PROCESALES. MEDIDAS CAUTELARES. ANOTACION DE LITIS. DESIGNACION DE INTERVENTOR INFORMANTE. RECHAZO. PROCEDENCIA. Cabe revocar la resolución que ordenó una anotación de litis y designó interventor informante en los términos del CPR 224 con sujeción a lo previsto por el art. 225-2º del mismo código en relación a cierto fideicomiso. No se desconoce que una posible obstaculización del ejercicio del derecho de información por parte del fiduciario hacia el apelante (que reviste el carácter de fiduciante), fundamentalmente ante la eventual falta de una rendición de cuentas de lo actuado o la omisión de una exhibición de la contabilidad, podría configurar una conducta en violación a la ley o al contrato, pero ello no supone -de por sí- la existencia de peligro grave a la subsistencia del fideicomiso, que es lo relevante para disponer su intervención -cfr. CCCN 69 1679, tercer párrafo in fine- . A más, en la especie, no sólo que no se observa que el patrimonio fideicomitido estuviera en riesgo, sino que tampoco se aprecia suficiente verosimilitud en el derecho, en tanto nunca se suscribió el contrato de desarrollo que debía celebrarse. En consecuencia, si la accionante no asumió el carácter de desarrolladora, no luce manifiesto el interés tutelable cautelarmente que justifique la intervención ordenada en primera instancia. La anotación de litis, también debe rechazarse al no estar firmado el contrato de desarrollo y no haberse realizado las obras de construcción. Así, no se observa verosímil el derecho invocado por el actor. COM 19984/2024/1 AVILIS SA C/ PROMOTORA FIDUCIARIA SA S/ ORDINARIO S/ INCIDENTE ART 250. Fecha del fallo: 16-07-2025 CAMARA COMERCIAL - SALA E Kölliker Frers - Chomer - Vásquez (Sala integrada por subrogancia). 68 CNCom, Sala D, in re “Wal-Mart Argentina SRL c/ Grainco SA y otro s/ medida precautoria”, del 18/10/16. 69 CNCom, esta Sala E, 13/04/21, “Topola, Alejandro Daniel c/ New Fisa SA s/ Medida Precautoria” 50 Poder Judicial de la Nación Boletín de Jurisprudencia 6 ================ Boletín de Jurisprudencia 9 (Octubre 2025) — https://pjn-documento-api.pjn.gov.ar/api/documento/adjunto/208619 ##### b208619.txt 141 141. CUESTIONES PROCESALES. MEDIDAS CAUTELARES. EMBARGO. IMPROCEDENCIA. AUSENCIA DE VEROSIMILITUD EN EL DERECHO. Corresponde rechazar el embargo sobre la cuenta de dos de las personas físicas codemandadas, pretendida por la accionante recurrente con fundamento en aplicar respecto de ella la inoponibilidad de la personalidad jurídica previsto por la LGS 54. Ello da cuenta de la necesidad de acudir a un examen relativamente complejo de la relación entre los mencionados coaccionados y la sociedad demandada. Ese tipo de examen requiere una actividad argumental y probatoria que no puede hacerse en el temprano, unilateral y limitado marco cognoscitivo de las medidas precautorias. COM 10133/2025 FERNANDEZ, JOSE EDUARDO Y OTRO C/ BUMBER SA Y OTROS S/ SUMARISIMO. Fecha del fallo: 08-10-2025 CAMARA COMERCIAL - SALA C Machin - Ballerini - Tevez (Sala integrada por subrogancia). ##### b208619.txt 142 142. CUESTIONES PROCESALES. MEDIDAS CAUTELARES. EMBARGO. IMPROCEDENCIA. CPR 209. AUSENCIA DE VEROSIMILITUD EN EL DERECHO. Cabe rechazar el embargo pretendido, sobre cuentas de las personas físicas codemandadas, por cuanto, la procedencia de la medida solicitada se encuentra subordinada a la concurrencia de los recaudos previstos en el CPR 209. Y en la especie, no se cuenta en estas actuaciones más que con lo que sería un instrumento privado, sin certificación de firmas, y sin que la firma que allí se lee -supuestamente de quien sería representante de la sociedad demandada- haya sido abonada por medio de información sumaria. No se desconoce que los peticionantes del embargo han ofrecido en la demanda prueba pericial caligráfica dirigida a comprobar la autenticidad de aquella firma, si es desconocida por la codemandada. Pero, por haberse ofrecido dicho medio de prueba sólo para el momento posterior a la contestación de demanda, no suple ahora, en este estadio precautorio, el faltante de información sumaria o de alguna otra constancia o medio. COM 10133/2025 FERNANDEZ, JOSE EDUARDO Y OTRO C/ BUMBER SA Y OTROS S/ SUMARISIMO. Fecha del fallo: 08-10-2025 CAMARA COMERCIAL - SALA C Machin - Ballerini - Tevez (Sala integrada por subrogancia). ================ Boletín de Jurisprudencia 2 (Marzo 2026) — https://pjn-documento-api.pjn.gov.ar/api/documento/adjunto/211059 ##### b211059.txt 108 108. CONTRATO DE COMPRAVENTA. TRANSFERENCIA DE FONDO DE COMERCIO. FRUSTRACION. RESPONSABILIDAD. PERDIDA DE CHANCE. IMPROCEDENCIA. Corresponde revocar la sentencia de grado que condenó por perdida de chance a los vendedores de cierto fondo de comercio por la frustración de su efectiva transferencia en favor de los adquirientes demandantes. Ello en virtud de la cláusula penal convenida en el contrato de marras, en tanto fija por anticipado la indemnización de los daños y perjuicios que deberán pagarse en caso de incumplimiento. El Código Civil y Comercial consagra como principio el carácter inmutable de la cláusula penal (conf. arts. 793 y 794, primer párrafo), de lo que deriva que el acreedor no puede reclamar un resarcimiento superior al convenido, ni el deudor eximirse de pagar la penalidad alegando que el acreedor no ha sufrido perjuicio alguno. Bajo tal 52 Poder Judicial de la Nación Boletín de Jurisprudencia 2 marco normativo se concluye que la indemnización ha quedado comprendida bajo la referida cláusula penal. COM 3509/2012 PABULUM SRL Y OTRO C/ SCARANO CAROLINA ALEJANDRA Y OTRO S/ ORDINARIO. Fecha del fallo: 25-03-2026 CAMARA COMERCIAL - SALA C Machin - Ballerini - Tevez (Sala integrada por subrogancia). ##### b211059.txt 171 171. CUESTIONES PROCESALES. MEDIDAS CAUTELARES. EMBARGO. SUSTITUCION. INMUEBLES. IMPROCEDENCIA. Corresponde rechazar la sustitución de embargo sobre cierto inmueble por otro bien de semejante condiciones físicas (v.gr. metrajes, ubicación) y valor estimativo ofrecido por el apelante. Ello puesto que el embargado se encuentra registralmente inscripto en un 100% a nombre del demandado, en tanto que el ofrecido en sustitución lo está solo en un 50% indiviso a nombre de aquél. Dicha diferencia de participación en la titularidad dominial de los bienes da cuenta que en definitiva, no es posible tener por cumplido -sino todo lo contrario- con el recaudo de identidad de valores al que refiere el CPR 203 para viabilizar la sustitución que se pretende. COM 19858/2022/1 GINER, ESTER C/ MALEH, RUBEN ABRAHAM S/ INCIDENTE ART 250. Fecha del fallo: 02-03-2026 CAMARA COMERCIAL - SALA C Machin - Ballerini - Tevez (Sala integrada por subrogancia). ================ Boletín de Jurisprudencia 5 (Junio 2026) — https://pjn-documento-api.pjn.gov.ar/api/documento/adjunto/213114 ##### b213114.txt 115 115. CONTRATO DE FIDEICOMISO. FIDEICOMISO FINANCIERO. CARACTERES. La operación de inversión estructurada a través de un fideicomiso financiero de carácter privado, al no encontrarse sometido al régimen de oferta pública, carece del control previo estatal propio del mercado de capitales. En este contexto, el inversor -atraído por rendimientos superiores a los del mercado- asume un mayor nivel de riesgo, vinculado tanto a la calidad de los activos subyacentes como a la solvencia de quien garantizó el pago. Debe admitirse entonces que, en una operatoria de esta naturaleza, la obtención del resultado esperado presenta un componente aleatorio que necesariamente incide en la valoración del daño, pues se trata de un resultado incierto que depende de múltiples circunstancias ajenas al accionar 76 diligente o no del fiduciario . En ese marco, el fiduciario asume una obligación de medios consistente en actuar con la diligencia y prudencia de un buen hombre de negocios en la administración del patrimonio fideicomitido (CCCN 1674), lo que comprende deberes de control, información y resguardo del patrimonio. Sin embargo, ello no importa garantizar el resultado económico de la inversión de los tenedores ni el cumplimiento de las obligaciones asumidas por el fiduciante. 76 Kiper, Claudio M. y Lisoprawski, Silvio V. “Tratado de Fideicomiso”. Ed. Rubinzal - Culzoni, 2023, t. I pág. 542. 60 Poder Judicial de la Nación Boletín de Jurisprudencia 5 COM 15915/2023 SESTUA, LUCIANO JAVIER C/ PROMOTORA FIDUCIARIA SA S/ SUMARISIMO. Fecha del fallo: 17-06-2026 CAMARA COMERCIAL - SALA C Machin - Ballerini - Tevez (Sala integrada por subrogancia). ##### b213114.txt 116 116. CONTRATO DE FIDEICOMISO. FIDEICOMISO FINANCIERO. DEBER DE CONTRATAR UN SEGURO. Cabe tener por incumplida la obligación de la fiduciaria de contratar un seguro. Así repárese que el deber de aseguramiento frente a terceros aparece como una obligación indisponible del fiduciario, que encuentra su fundamento en el estándar de prudencia y diligencia del buen hombre de negocios consagrado en el CCCN 1674. La falta de contratación del seguro de responsabilidad civil, independientemente de la naturaleza material o inmaterial de los bienes fideicomitidos, trasunta una negligencia en el ejercicio de la función fiduciaria que se aparta del estándar profesional exigible. COM 15915/2023 SESTUA, LUCIANO JAVIER C/ PROMOTORA FIDUCIARIA SA S/ SUMARISIMO. Fecha del fallo: 17-06-2026 CAMARA COMERCIAL - SALA C Machin - Ballerini - Tevez (Sala integrada por subrogancia). ##### b213114.txt 117 117. CONTRATO DE FIDEICOMISO. FIDEICOMISO FINANCIERO. FIDUCIARIO. INCUMPLIMIENTO. INDEMNIZACION. PERDIDA DE CHANCE. Cabe condenar a la accionada por su responsabilidad, en su carácter de fiduciaria de cierto Fideicomiso Financiero, frente a la falta de pago de la tenencia del actor y al cumplimiento de los deberes legales y contractuales a su cargo. Es que la pérdida económica invocada se vincula con la interrupción del flujo de fondos producida cuando el fiduciante -quien además actuaba como agente de cobro- dejó de transferir al fideicomiso las cobranzas de los créditos cedidos y de aportar los recursos comprometidos para afrontar los servicios de los valores fiduciarios. Tal circunstancia explica la frustración del negocio y el resultado económico adverso finalmente experimentado por el accionante. No obstante, los incumplimientos verificados en la conducta de la fiduciaria -en particular, la ausencia de información periódica adecuada y la falta de controles eficaces sobre el agente de cobro- no resultan irrelevantes a los fines resarcitorios. En efecto, tales omisiones pudieron haber incidido en la posibilidad de advertir oportunamente el deterioro de la operatoria y de adoptar medidas destinadas a resguardar los intereses de los inversores. Desde esta perspectiva, lo que su conducta pudo haber frustrado no es el resultado final del negocio -cuya concreción dependía de múltiples factores ajenos a su control- sino la posibilidad del actor de adoptar decisiones destinadas a limitar o mitigar el riesgo de su inversión. La pretensión, por ende, sólo puede prosperar en cuanto tendiente a indemnizar la pérdida de la chance del accionante de evitar o atenuar el perjuicio finalmente sufrido, frustrada por la falta de información y control que incumbía a la fiduciaria. En tales condiciones, ponderando la naturaleza del negocio financiero involucrado y la incidencia que los incumplimientos verificados pudieron tener en la posibilidad tal de reacción temprana del inversor, se estima equitativo fijar la indemnización en tal concepto en el diez por ciento (10%) del valor nominal del título a la fecha inmediata anterior a la interrupción de los pagos. Dicha suma devengará intereses desde la mora, a la tasa activa del Banco de la Nación Argentina para operaciones de descuento de documentos a treinta (30) días, hasta el 17 de enero de 2026, fecha de entrada en vigencia de la tasa de interés moratorio (TIM); y, a partir de entonces, conforme esta última, de acuerdo con lo dispuesto por el CCCN 768-c) y su reglamentación por el Banco Central de la República Argentina, mediante Resolución 1/26. 61 Poder Judicial de la Nación Boletín de Jurisprudencia 5 COM 15915/2023 SESTUA, LUCIANO JAVIER C/ PROMOTORA FIDUCIARIA SA S/ SUMARISIMO. Fecha del fallo: 17-06-2026 CAMARA COMERCIAL - SALA C Machin - Ballerini - Tevez (Sala integrada por subrogancia). ##### b213114.txt 118 118. CONTRATO DE FIDEICOMISO. FIDEICOMISO FINANCIERO. FIDUCIARIO. RENDICION DE CUENTAS. INCUMPLIMIENTO. Cabe condenar a la accionada por su responsabilidad, en su carácter de fiduciaria de cierto Fideicomiso Financiero, frente a la falta de pago de la tenencia del actor y al cumplimiento de los deberes legales y contractuales a su cargo. Es que se encuentra incumplido el deber de rendir cuentas. Ello en tanto, el esquema contractual no contempló la rendición de cuentas como una previsión meramente formal, sino como un verdadero mecanismo de control y transparencia en favor de los tenedores. En tal sentido, cierta cláusula del contrato imponía al fiduciario el deber activo de confeccionar y poner a disposición de los tenedores informes mensuales que permitieran conocer, de manera cierta y detallada, la marcha del negocio, el estado de las cobranzas y la situación del patrimonio fideicomitido. Tal diseño contractual se corresponde, además, con lo dispuesto por el CCCN 1676, que establece que la obligación de rendir cuentas es de orden público y no puede ser dispensada. De tal modo, ese deber no se agotaba en la mera disponibilidad pasiva de información ni en su entrega ante un eventual requerimiento del beneficiario, sino que exigía una actividad proactiva de fiscalización y comunicación periódica para garantizar que los inversores conocieran la evolución del patrimonio fideicomitido. En tal marco, y por aplicación del deber de colaboración que impone la LDC 53, recaía sobre la accionada la carga de aportar al proceso elementos que demostraran la confección de esos informes y la efectiva puesta a disposición, extremo que no cumplió, debiendo soportar las consecuencias de su propia orfandad probatoria. COM 15915/2023 SESTUA, LUCIANO JAVIER C/ PROMOTORA FIDUCIARIA SA S/ SUMARISIMO. Fecha del fallo: 17-06-2026 CAMARA COMERCIAL - SALA C Machin - Ballerini - Tevez (Sala integrada por subrogancia). ##### b213114.txt 234 234. CUESTIONES PROCESALES. MEDIDAS CAUTELARES. EMBARGO PREVENTIVO. IMPROCEDENCIA. AUSENCIA DE PELIGRO EN LA DEMORA. Corresponde revocar la resolución que decretó un embargo preventivo sobre las cuentas de la futura demandada, requerida a los efectos de asegurar la eventual sentencia favorable en el marco de la acción que ha de interponerse a los fines de obtener el reembolso de las sumas abonadas al dependiente de la accionada en virtud de un infortunio laboral. Ello pues la embargada habría dado en pago -según afirma la propia apelada- los importes reclamados en sede laboral; lo cual parece descartar la viabilidad de ese dato como indicio del peligro que se pretende evidenciar. Asimismo los fondos que ingresaron al expediente con motivo de la medida preventiva aquí dispuesta supera con creces el importe al que el apelado hizo mención al contestar el recurso. Bajo tales parámetros no se observa elementos que aconsejen aceptar una probabilidad razonable de que, en caso de arribar en el juicio principal a una sentencia condenatoria, ésta no pueda ser efectivizada por la obligada. COM 9426/2025 SWISS MEDICAL ART SA C/ JOLUGIA SRL S/ MEDIDA PRECAUTORIA. Fecha del fallo: 23-06-2026 CAMARA COMERCIAL - SALA C Machin - Ballerini - Tevez (Sala integrada por subrogancia). ##### b213114.txt 394 394. PROCESO DE EJECUCION. EJECUCION DE SENTENCIA. LIQUIDACION. RENDICION DE CUENTAS. INCUMPLIMIENTO. 256 Fallos 308:122; esta Sala F, 22/6/17, "Estructuras y Servicios SA c/ Talleres Navales Dársena Norte SACIyN s/ ordinario", Expte. COM N° 14789/2011. 198 Poder Judicial de la Nación Boletín de Jurisprudencia 5 Cabe revocar la resolución que aprobó las cuentas presentadas por el actor, ante la reticencia del accionado. Ello por cuanto, la rendición de cuentas ordenada en la sentencia no consiste en el pago de una suma de dinero fijada a valores actuales, sino en la exposición integral de la gestión realizada, con indicación de los ingresos y egresos que ella produjo, a fin de determinar el saldo que eventualmente le corresponda al acreedor. Así lo establecía el CCOM 71 -vigente al tiempo de la operatoria-, cuyo espíritu subsiste en el CCCN 860 y siguientes. La obligación de rendir cuentas impuesta a la demandada exige una descripción clara, documentada y circunstanciada de la administración del negocio ajeno, incluyendo tanto el producto de las ventas como los gastos en que se incurrió para obtenerlo. Sólo después de confrontar ambas partidas podrá determinarse si existe un remanente en favor del actor o un saldo deudor de este último, y en qué medida. En otras palabras, la cuestión relativa a si los costos fueron ya satisfechos o no, y en qué medida, es una materia que integra la rendición misma y no puede ser resuelta in limine por el juez en la etapa de ejecución, suprimiendo la posibilidad de que la demandada ejerza adecuadamente su derecho de contradicción en los términos del CPR 652. Ello así, cabe disponer que en la instancia de origen se practique la rendición de cuentas ordenada en la sentencia definitiva. CIV 60153/2019 BAUER, HECTOR ADOLFO C/ AGROPECUARIA MARIPOSA SA S/ ORDINARIO. Fecha del fallo: 24-06-2026 CAMARA COMERCIAL - SALA B Ballerini - Vásquez. ================ Boletín de Jurisprudencia 6 (Julio 2026) — https://pjn-documento-api.pjn.gov.ar/api/documento/adjunto/213522 ##### b213522.txt 107 107. CONTRATO DE FIDEICOMISO. RENDICION DE CUENTAS. CPR 652. Corresponde revocar la resolución de grado que previa intimación a rendir cuentas de la gestión del fiduciario accionado, aprobó las cuentas presentadas por la fiduciante actora en el marco de una acción -rechazada- de remoción y mando a abonar cierta suma de dinero. Dicha obligación si bien no ha sido debidamente satisfecha por el fiduciario, resultando insuficiente la remisión a antecedentes incorporados a la causa, ello no implica que deba aprobarse la cuenta presentada por la accionante -CPR 652-. Así, pues se trata de una reiteración ya desestimada y no incluye ninguna información vinculada a la gestión o funcionamiento del fideicomiso. Por el contrario, la aludida cuenta solo exhibe la existencia de una supuesta deuda -con total prescindencia del estado de cumplimiento del contrato y la situación del resto de los cocontratantes-, con el objeto de perseguir su cobro. COM 5929/2020 FERNANDEZ BALAGUE, EMILIANO SEBASTIAN C/ FIDUCIARIA DUAR SA EN SU CARACTER DE FIDUCIARIO DEL FIDEICOMISO SPRINGPARK S/ ORDINARIO. Fecha del fallo: 15-07-2026 CAMARA COMERCIAL - SALA C Machin - Ballerini - Tevez (Sala integrada por subrogancia). ##### b213522.txt 119 119. CONTRATO DE SUMINISTRO. RESOLUCION. IMPROCEDENCIA. ANTIJURIDICIDAD. PRORROGA DEL CONTRATO. PERDIDA DE CHANCE. Cabe modificar el pronunciamiento que condenó a la accionada a pagar a la actora en concepto de lucro cesante la ganancia que dejó de percibir entre el instante en que se extinguió la relación hasta el término en que se cumplía su plazo de duración original. Ello por cuanto, la petrolera le otorgó a la accionante un derecho de opción irrevocable para extender por 5 años el término de duración del contrato, es claro que la resolución antijurídica del contrato de suministro, no hace desaparecer el derecho de la reclamante a prorrogarlo ni la consiguiente obligación de la demandada de cumplirlo, y, esto, por cuanto, la imposibilidad fáctica y jurídica de alongar su vencimiento solo se produjo por un obrar antijurídico imputable a la última, lo que la hace responsable de los perjuicios que su obrar provocó en el patrimonio de la actora-. Tal probabilidad de prorrogar el contrato debe reconceptualizarse como una pérdida de chance y no como lucro cesante. Ello pues en definitiva se frustró a la actora la obtención de un beneficio económico con probabilidad suficiente de convertirse en cierto, y no la efectiva pérdida de una ganancia segura y determinada proveniente de una actividad lucrativa que se vio interrumpida o alterada por el hecho dañoso (Fallos: 344:3476). COM 41860/2014 POSTA PILAR SA C/ YPF SA S/ ORDINARIO. Fecha del fallo: 15-07-2026 CAMARA COMERCIAL - SALA F 117 CNCom, esta Sala, mi voto, “Nizza Davidson Ingenieria y Obras SRL c/ Empresa Distribuidora Sur SA s/ ordinario”, Expte. Com. N° 3380/2019, del 12/8/25. 66 Poder Judicial de la Nación Boletín de Jurisprudencia 6 Tevez - Lucchelli - Vásquez (Sala Integrada). ##### b213522.txt 148 148. CUESTIONES PROCESALES. MEDIDAS CAUTELARES. EMBARGO PREVENTIVO. CPR 209-4°. IMPROCEDENCIA. Corresponde revocar la resolución de grado que tras la presentación del peritaje contable (CPR 209-4°), dispuso un embargo sobre cuentas bancarias de la accionada apelante. Ello puesto que el dictamen no ha sido elaborado sobre los libros de la actora (y como es obvio, ninguna referencia se efectuó con relación a si se encontraban o no llevados en legal forma), sino sobre cierta documentación que en copia certificada le fue presentada al experto (v.gr, facturas, constancias de ARCA, un resumen de cuentas). En ese contexto y en lo que aquí interesa, no cabe tener por cumplida con la exigencia que impone la norma a efectos de justificar, prima facie, la verosimilitud en el derecho en función del que se pretende actuar preventivamente. Es decir, ese dictamen no solo ha de referirse a la existencia misma del crédito, su monto y exigibilidad según los asientos, sino también sobre si los libros en que se verifica la misma reúnen los requisitos de la ley de fondo y de cuya concurrencia depende la eficacia de la 136 prueba . 136 Kielmanovich, “Código procesal. Comentado y anotado”, T. I, pág. 502, edit. Abeledo Perrot. 79 Poder Judicial de la Nación Boletín de Jurisprudencia 6 COM 1057/2026/2 GLOBAL MEDICA SA C/ OBRA SOCIAL DE LA UNION PERSONAL DEL PERSONAL CIVIL DE LA NACION S/ INCIDENTE DE APELACION. Fecha del fallo: 14-07-2026 CAMARA COMERCIAL - SALA C Machin - Ballerini - Tevez (Sala integrada por subrogancia). ================ Boletín de Jurisprudencia 9 (Octubre 2024) — https://pjn-documento-api.pjn.gov.ar/api/documento/adjunto/201186 ##### b201186.txt 169 169. CUESTIONES PROCESALES. MEDIDAS CAUTELARES. PROCEDENCIA. ACCION DE NULIDAD DE VENTA DE ACCIONES SOCIETARIAS: ANOTACION DE LITIS. 1 - Corresponde admitir la pretensión cautelar de anotación de litis en el libro de acciones, solicitada por la promotora de una demanda de nulidad de venta del paquete accionario, en cuyo marco denuncia que se trató de una maniobra tendiente a sustraer tales bienes de la división de la sociedad conyugal. 2 - Ello así, en tanto tal medida no exige una rigurosa carga de admisibilidad, por resultar menos grave (conf. CNCom, Sala D, in re “Imfeld O´Farrell, Diana c/ Fideicomiso Roosevelt 4063 y otros s/ ordinario”, del 24/02/22; Morello, A., “Códigos Procesales de la Provincia de Buenos Aires y de la Nación, comentados y anotados”, La Plata – Buenos Aires, 1986, t. II-C, p. 948). Y dado que es una medida de seguridad ante la acreditación de un peligro abstracto, no resulta indispensable el periculum in mora (conf. CNCom, Sala D, in re “Monjo, Ezequiel Alejandro c/ González, Sergio y otros s/ ordinario”, del 06/10/22; Colombo, C. y Kiper, C., “Código Procesal Civil y Comercial de la Nación, anotado y comentado”, Buenos Aires, 2006, t. II, p. 771, nº 5; y otros autores). Referencias Bibliográficas Morello, A., “Códigos Procesales de la Provincia de Buenos Aires y de la Nación, comentados y anotados”, La Plata – Buenos Aires, 1986, t. II-C, p. 948. Colombo, C. y Kiper, C., “Código Procesal Civil y Comercial de la Nación, anotado y comentado”, Buenos Aires, 2006, t. II, p. 771, nº 5; y otros autores. Referencias Jurisprudenciales CNCom, Sala D, in re “Imfeld O´Farrell, Diana c/ Fideicomiso Roosevelt 4063 y otros s/ ordinario”, del 24/02/22. CNCom, Sala D, in re “Monjo, Ezequiel Alejandro c/ González, Sergio y otros s/ ordinario”, del 06/10/22. COM 17792/2024 GUETMONOVITCH, MARIELA YANINA C/ LIVI, MIGUEL MAXIMILIANO S/ ORDINARIO. Fecha del fallo: 29-10-2024 CAMARA COMERCIAL - SALA D Heredia - Vassallo. 

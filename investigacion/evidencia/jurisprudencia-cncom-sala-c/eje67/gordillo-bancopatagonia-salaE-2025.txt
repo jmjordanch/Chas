@@ -1,0 +1,479 @@
+https://aldiaargentina.microjuris.com/2026/01/07/fallos-phishing-bancario-y-responsabilidad-compartida-la-camara-comercial-declaro-nulo-un-prestamo-no-solicitado-y-atribuyo-responsabilidad-concurrente-50-50-entre-el-banco-y-la-clienta-manteniendo/
+AL DÍA | ARGENTINA
+
+Facebook Twitter Instagram YouTube
+  Search
+Biblioteca
+Fallos
+Legislación
+Doctrina
+Preguntas Frecuentes
+Noticias
+Actualidad
+Modelos
+Eventos
+Todos
+Alianzas
+Colaboradores
+Contacto
+Área de clientes
+Especial DNU 70/2023
+DNU 70/2023 e Información complementaria
+Impacto del DNU en el servicio de medicina prepaga
+#Fallos Phishing bancario y responsabilidad compartida: la Cámara Comercial declaró nulo un préstamo no solicitado y atribuyó responsabilidad concurrente 50/50 entre el banco y la clienta, manteniendo el daño moral
+
+Ed. Microjuris.com Argentina
+on 7 enero 2026
+
+Aún no estás suscripto a Microjuris? Ingresá aquí.
+
+Partes: Gordillo María de los Angeles c/ Banco Patagonia S.A. s/ ordinario
+
+Tribunal: Cámara Nacional de Apelaciones en lo Comercial
+
+Sala / Juzgado / Circunscripción / Nominación: E
+
+Fecha: 27 de octubre de 2025
+
+Colección: Fallos
+
+Cita: MJ-JU-M-157978-AR|MJJ157978|MJJ157978
+
+Voces: DAÑOS Y PERJUICIOS – RESPONSABILIDAD BANCARIA – DAÑO PUNITIVO – DAÑO MORAL – CUENTA CORRIENTE BANCARIA – CAJA DE AHORRO
+
+El banco es responsable por el hecho de que el sistema de banca electrónica haya podido ser vulnerado por terceros para que éstos pudieran defraudar a la accionante.
+
+Sumario:
+1.-La orden de traslado de la demanda se exterioriza mediante una notificación que tiene una naturaleza compuesta, puesto que se trata de un acto citatorio, en tanto cita al demandado a comparecer al juicio bajo apercibimiento de poder ser considerado rebelde, si así lo pide la contraparte, y un acto emplazatorio, en el que se le otorga al accionado un plazo para el ejercicio de su derecho de oposición o de contradicción y para contestar la demanda.
+
+2.-La rebeldía se configura respecto a la parte que no cumple con esa citación y no comparece al proceso dentro del plazo fijado a tal efecto, o que lo abandona después de haber comparecido. Sin embargo, no entraña -sin más- el reconocimiento ficto por parte del rebelde de la verdad de los hechos alegados por la otra parte como fundamento de su pretensión, ni tampoco constituye causal para tener por configurada una presunción iuris tantum acerca de la verdad de esos hechos.
+
+3.-En nuestro sistema procesal la declaración de rebeldía constituye el fundamento de una presunción simple o judicial, de manera que incumbe al juez, al valorar los elementos de juicio incorporados al proceso, estimar si de la incomparecencia o del abandono cabe desprender o no, en cada caso concreto, el reconocimiento de los hechos afirmados por la otra parte. En otros términos, la ausencia de efectiva controversia que involucra el proceso en rebeldía no exime al juez de la necesidad de dictar una sentencia justa de acuerdo al mérito del proceso.
+
+4.-Es sabido que el uso masivo de la operatoria bancaria virtual, especialmente con motivo del aislamiento provocado por la pandemia Covid-19, trajo aparejado consigo el incremento exponencial de los ciberdelitos, siendo los más usuales el ‘Phishing’, el ‘Malware’, el ‘Haching’ y el ‘Exploit’.
+
+5.-A través del ‘Phishing’ se engaña a los usuarios de internet para que proporcionen sus datos personales, como contraseñas o claves de acceso a cuentas bancarias, utilizándose llamadas telefónicas, aplicaciones de mensajería, correos electrónicos o redes sociales, a través de las cuales el estafador se hace pasar por una persona o entidad de confianza para establecer comunicación con la víctima. El ‘Malware’ involucra un software instalado de manera involuntaria con el objetivo adquirir información personal. A través del ‘Hacking’ se obtiene un acceso ilegal a la computadora de alguien en forma remota. Finalmente, el ‘Exploit’ aprovecha fallos de seguridad, defectos o vulnerabilidades de otros programas o sistemas informáticos, con el fin de obtener algún tipo de beneficio o de llevar a cabo a una acción concreta.
+
+6.-A fin de dilucidar la existencia o no de responsabilidad por parte del banco demandado, respecto de la la sustracción sufrida por el actor, resulta pertinente recordar que la conducta de toda entidad bancaria se mide con mayor severidad que la de los particulares, por tratarse de una actividad profesional que debe ajustarse a un estándar especial de responsabilidad agravada, dado que desarrolla una actividad que no puede apreciarse con los mismos parámetros que resultan aplicables a un particular medio, pues toda institución bancaria es un ente mercantil al que debe atribuirse un alto grado de especialidad, con obvia superioridad técnica sobre sus clientes, circunstancia que la obliga a obrar con prudencia y conocimiento de su actividad profesional conforme lo dispuesto en el art. 1725 CCivCom.
+
+7.-Estando los bancos sujetos al deber profesional de obrar con prudencia y pleno conocimiento de las cosas, su responsabilidad contractual debe medirse con un patrón de mayor severidad, correspondiendo que repare los daños y perjuicios sufridos por su cliente, por su culpa o dolo inexcusable. Es que la calidad de banquero es un antecedente jurídico necesario que lo somete a la doctrina del riesgo profesional y a los principios generales de la culpa civil y del art. 1725 CCivCom., porque la ecuación confianza-asunción de riesgo se traduce en una acción profesional de tutela: la oferta profesional de un servicio debe ser satisfecha de acuerdo a la expectativa que genera.
+
+8.-La opción con la que cuentan los titulares de operar sobre sus cuentas a través del sistema de banca electrónica forma parte de la prestación del servicio bancario ofrecido por la accionada, de modo que, no hallándose discutido que su relación con el accionante fue una de consumo en los términos de los arts. 1 , 2 y 3 LDC., le es atribuible una responsabilidad objetiva por los daños derivados del vicio en la prestación de ese servicio en los términos del art. 40 LDC.
+
+9.-Encuadrada la responsabilidad de la entidad bancaria por las operaciones efectuadas a través del sistema de banca electrónica, como en este caso, la defensa planteada por el Banco, consistente en sostener que habría cumplido debidamente con su obligación de seguridad, resulta inadecuada, ya que, tratándose de un supuesto de responsabilidad objetiva, no fue la suya una obligación de medios que le permitiera eludir cualquier reclamo demostrando la adopción de medidas razonables para evitar el daño sufrido por el demandante, sino que, para eximirse total o parcialmente de su responsabilidad, debía acreditar que la causa de aquél le era totalmente ajena (arts. 1722 CCivCom. y 40 LDC.).
+
+10.-La responsabilidad por el vicio o riesgo de la cosa es inexcusable, sea con respecto al guardián o al dueño de ella. Ello significa que tal responsabilidad no puede quedar excluida por la prueba que se intente rendir acerca de la inculpabilidad del responsable, sino que hay necesidad de establecer la existencia de un hecho con el cual sea incompatible aquella responsabilidad. De ese modo, el dueño está inhibido para probar su ausencia de culpa, puesto que sería estéril semejante prueba dado que, aún rindiéndola, no por ello quedaría exento de la responsabilidad que le cuadra en la misma situación por el daño causado por el riesgo de la cosa -o de la actividad-, la cual prescinde del elemento subjetivo de culpa.
+
+11.-Para el juego de la responsabilidad por el vicio de la cosa es menester que concurran los siguientes requisitos: (i) la existencia de un vicio, esto es, un defecto aparente y oculto que hace a la cosa impropia para empleo que se le dio, comunicándole una ‘dañosidad’; (ii) el daño del damnificado; (iii) la relación de causalidad entre la intervención de la cosa y ese daño, y (iv) la calidad de dueño o guardián de la cosa.
+
+12.-No es excusable la responsabilidad del dueño o guardián de una cosa riesgosa o la de quienes desarrollan una actividad riesgosa o peligrosa que dañe a la víctima (art. 1757 CCivCom.), aún cuando aquélla no hubiera presentado vicio alguno. En esos casos, los requisitos para la configuración de la responsabilidad son: (i) la ausencia de autoría humana con respecto a la acción de una cierta cosa que no es dable calificar como hecho del hombre, (ii) el daño sufrido por el pretensor de la indemnización, (iii) la relación de causalidad entre la acción de la cosa y el daño y (iv) la calidad de dueño o guardián de la cosa.
+
+13.-Si bien son claros los beneficios derivados para los clientes de la existencia del sistema de banca electrónica, en tanto les permite operar sobre sus cuentas sin necesidad de concurrir a una sucursal bancaria, en horarios inhábiles e incluso desde el exterior del país, al mismo tiempo dicho servicio también reporta beneficios para la entidad bancaria, dado que le permite reducir el costo de su operatoria presencial. Pero, a la par de esos beneficios, es también claro que dicho sistema entraña un riesgo para ambas partes, en tanto facilita la realización de operaciones sobre las cuentas de los clientes sin que medie la conformidad de estos últimos.
+
+14.-Por su condición de entidad predisponente del sistema con el que operan los clientes para vincularse por vía remota con dicha entidad, banca electrónica, el banco demandado es responsable de que tal sistema haya podido ser vulnerado por terceros para que éstos pudieran defraudar a la accionante. Ello así por cuanto este último tiene frente a la actora una responsabilidad objetiva por los daños que aquél pudiera sufrir como consecuencia del vicio o riesgo del sistema que implementó, de lo cual resulta irrelevante evaluar su diligencia en la gestión de aquél sistema pues, más allá de esa diligencia, responde objetivamente por las fallas de seguridad de este último.
+
+15.-En cuanto a la culpa de la víctima en el ámbito de la responsabilidad objetiva, cuando ella constituye la única causa del daño, el dueño o guardián de la cosa viciada o riesgosa queda liberado de su responsabilidad, pues lógicamente si el daño fue producido por la culpa del damnificado, no pudo ser causado por el vicio o riesgo de la cosa. En cambio, cuando la prueba sólo consigue demostrar la parcial influencia causal de la culpa de la víctima en la producción del daño, la exención del dueño o guardián es también sólo parcial.
+
+16.-Cuando se presenta una conjunción de causas, a saber, la probada culpa de la víctima y la no eliminada presencia activa del vicio o del riesgo de la cosa o la actividad, sin que un factor absorba al otro. Entonces hay necesidad de desgravar al dueño, al guardián o a quien realiza la actividad riesgosa de la parte del daño atribuible a la dosis de causalidad inherente a la culpa del damnificado, quedando el remanente del perjuicio a cargo del dueño o guardián cuya responsabilidad no fue enteramente eliminada.
+
+17.-Si el hecho delictivo pudo perpetrarse explotando el riesgo ínsito en la actividad bancaria remota al que ya hice referencia pero, también e inexorablemente, gracias a la facilitación -voluntaria o involuntaria- de la información de acceso a la cuenta por parte del accionante, de modo tal que ambas conductas tienen el carácter de antecedentes con-causales determinantes de la provocación del daño, lo cual autoriza a considerar configurado un supuesto de ‘concurrencia’ de culpas o de factores de atribución de responsabilidad, concurrencia que autoriza a distribuir entre los copartícipes las consecuencias perjudiciales del evento dañoso.
+
+18.-Dado que los terceros que concretaron la sustracción del dinero depositado en la cuenta de la actora tuvieron que haber tenido acceso a los datos de ingreso que el accionante tenía bajo su custodia para llevar adelante la acción, la entidad bancaria accionada debe considerarse eximida parcialmente de su responsabilidad por el daño sufrido por la actora como consecuencia del desapoderamiento del dinero que tenía depositado en su cuenta bancaria, restando sólo determinar la medida de esa responsabilidad.
+
+19.-El resarcimiento del daño moral en materia contractual debe ser apreciado con criterio restrictivo, teniendo en cuenta que no se trata de una reparación automática tendiente a resarcir las desilusiones, incertidumbres y disgustos que toda inejecución contractual trae aparejados, sino solamente determinados padecimientos espirituales que, de acuerdo con la naturaleza del hecho generador de la responsabilidad y circunstancias del caso, así lo hagan menester.
+
+20.-Para que resulte procedente la reparación moral, es necesario considerar la repercusión que la acción dañosa provoca en la persona afectada. Las molestias, así como los reclamos extrajudiciales o la necesidad de accionar judicialmente para obtener el reconocimiento de su derecho indemnizatorio, no constituyen daño moral: para que así sea, es menester alegar y probar -razonablemente- la modificación disvaliosa del espíritu, de querer o sentir del supuesto damnificado para, así, admitir tal rubro indemnizatorio.
+
+21.-El agravio moral importa una lesión a las afecciones legítimas: entre otras, la paz, la tranquilidad de espíritu, la libertad individual, el honor, la integridad física, los afectos familiares, aunque no cualquier inquietud o perturbación del ánimo derivados de la privación de bienes materiales son suficientes para justificarlo.
+
+22.-En los supuestos de responsabilidad contractual la regla de que está a cargo de quien lo reclama la acreditación de su concreta existencia cobra especial significación. Y esto es así porque, si la noción de daño moral se halla vinculada al concepto de desmedro extrapatrimonial o lesión en los sentimientos personales, aparece como evidente que no puede ser equiparable ni asimilable a las meras molestias, dificultades, inquietudes o perturbaciones propias de todo incumplimiento contractual, en tanto estas vicisitudes son propias del riesgo de cualquier contingencia negocial, razón por la cual es exigible que quien lo invoque acredite las especiales circunstancias a las que la Ley subordina la procedencia de este resarcimiento.
+
+23.-El ‘daño punitivo’ ha sido definido como las sumas de dinero que los tribunales mandan pagar a la víctima de ciertos ilícitos, que se suman a las indemnizaciones por daños realmente experimentados por el damnificado, que estén destinados a punir graves inconductas del demandado y a prevenir hechos similares en el futuro.
+
+24.-El daño punitivo participa de la naturaleza de una pena privada, que se manda a pagar por encima de los valores en los que se condene en calidad de ‘daños y perjuicios’ y se encuentra destinada, en nuestra regulación, en principio, al propio damnificado. Esta pena privada está estrechamente asociada a la idea de prevención de ciertos daños y también, al castigo y al desbaratamiento, a futuro, de los efectos de ilícitos que, por su gravedad o por sus consecuencias, requieren algo más que la mera indemnización resarcitoria de los perjuicios causados.
+
+25.-La multa civil prevista por el art. 52 bis de la Ley 24.240 cumple una tríada de funciones, a saber: a) sancionar al causante de un daño inadmisible; b) hacer desaparecer los beneficios injustamente obtenidos a través de la actividad dañosa; y c) prevenir o evitar el acaecimiento de hechos lesivos similares, al que mereciera la punición.
+
+26.-La finalidad de los daños punitivos es: a) punir graves inconductas; b) prevenir futuras inconductas semejantes, ante el temor de la sanción; c) restablecer el equilibrio emocional de la víctima; d) reflejar la desaprobación social frente a graves inconductas; e) proteger el equilibrio del mercado.
+
+27.-Si bien, para la procedencia del ‘daño punitivo’ la literalidad de la norma sólo parecería exigir el incumplimiento por parte del proveedor de sus obligaciones legales o contractuales y así ha sido entendido en algunos precedentes que estiman que lo único que se requiere es la existencia de dicho incumplimiento, lo cierto es que tal postura no puede ser compartida, a poco que se repare en que tan ligera apreciación resulta contraria a la propia esencia del instituto que se recoge y debe entenderse que deviene contraria al espíritu de la norma.
+
+28.-El consenso dominante sobre la aplicación del daño punitivo, tanto en el derecho comparado como en nuestra doctrina, es el de que las indemnizaciones o daños punitivos únicamente proceden en supuestos de particular gravedad, calificados por el ‘dolo o la culpa grave’ del sancionado, o por la obtención de enriquecimientos derivados del ilícito, o en ciertos casos, por un abuso de posición de poder, particularmente cuando ella evidencia un menosprecio grave por derechos individuales o de incidencia colectiva.
+
+29.-En términos generales, cuando los precedentes se refieren a la existencia de ‘culpa grave’, se trata de aquella que constituye una falta grosera, esto es, la que consiste en el hecho de no haber tomado una precaución que todo el mundo habría juzgado necesaria. Este tipo de culpa únicamente se configura cuando media una manifiesta y grave despreocupación, identificándose con la voluntad consciente más que con el simple descuido.
+
+30.-El ‘daño punitivo’ traído a nuestra legislación no puede pues, ser desligado de la necesaria consideración de la naturaleza misma del instituto, dado que es independiente y funcional a la gravedad del hecho, ya que agrava, con todo rigor, la indemnización que ya se haya estimado procedente. Así pues, cabe solo en el debido contexto que justifique concederlo. N.R.: Sumarios elaborados por Ricardo A. Nissen.
+
+Fallo:
+En Buenos Aires, a los 28 días del mes de octubre de dos mil veinticinco, se reúnen los Señores Jueces de Cámara en la Sala de Acuerdos, con asistencia de la Señora Secretaria de Cámara, para entender en los autos caratulados «GORDILLO, MARIA DE LOS ANGELES c/ BANCO PATAGONIA S.A. sobre ORDINARIO» (Expediente N° 12.684/2.020), originarios del Juzgado del Fuero N° 28, Secretaría N° 56, en los cuales, como consecuencia del sorteo practicado de acuerdo con lo establecido por el art. 268 del CPCC, resultó que debían votar en el siguiente orden:
+
+Doctor Alfredo Arturo Kölliker Frers (Vocalía 13), la Doctora María Guadalupe Vásquez (Vocalía 15) y el Doctor Héctor Osvaldo Chómer (Vocalía 14).
+
+Estudiados los autos se planteó la siguiente cuestión a resolver:
+
+¿Es arreglada a derecho la sentencia apelada?
+
+A la cuestión propuesta, el Señor Juez de Cámara Doctor Alfredo Arturo Kölliker Frers dijo:
+
+I. LOS HECHOS DEL CASO.
+
+(1.) María de los Ángeles Gordillo promovió demanda contra Banco Patagonia SA persiguiendo el cobro de los daños y perjuicios que padeció como consecuencia de una maniobra ilícita por medio de la cual, luego del otorgamiento por parte de la entidad bancaria demandada de un préstamo personal de $227.000 que no había solicitado, se produjo la inmediata sustracción del dinero proveniente de ese préstamo y de la suma de $20.000 que tenía depositados en sus cuentas.
+
+En sustento de su pretensión, describió la situación que le generó los perjuicios.Expresó que el 20.7.20 se solicitó desde su cuenta un préstamo por la suma de $227.700, que se trató de un préstamo personal de acreditación inmediata; que, al realizar una operación a través de su tarjeta de débito ese mismo día, comprobó que carecía de fondos en su cuenta; que una persona que desconoce y con la cual no tiene relación alguna extrajo los fondos que poseía depositados juntamente con el monto por el cual fue otorgado el crédito; que, ante esta situación, se puso de inmediato en contacto con la demandada informándole de esta irregularidad; que le hizo saber al banco que se le había otorgado un crédito que no solicitó y que le fue sustraído todo el dinero que tenía en su cuenta y el monto del crédito referido; que la accionada le exigió la presentación de la denuncia penal, la que pudo formalizar con gran dificultad debido al aislamiento y restricciones a la circulación impuestos por las autoridades gubernamentales con motivo de la pandemia ocasionada por el Covid-19.
+
+Refirió que tras ello, el banco demandado rechazó su reclamo afirmando que se habían cumplido las medidas de seguridad establecidas para operar por banca electrónica ya que las operaciones se habían llevado a cabo con solicitud de usuario y clave y los dígitos de la tarjeta de coordenadas.
+
+Adicionalmente señaló que formuló la correspondiente denuncia penal que recayó en la UFI de Martínez, de Departamento Judicial de San Isidro, identificada con el número IPP 14-03-001423-20/00 y caratulada «NN s/ Estafa»; que, además, envió una carta documento al banco solicitando se abstuvieran de debitar las cuotas del préstamo que ella no solicitó; que la demandada la rechazó en todos sus términos y le comunicó que no procederían a la suspensión del cobro de la cuotas del préstamo por no haberse verificado que en tal operación se haya encontrado viciada su voluntad; que dicha misiva dista de la comunicación que debiera existir en una relación de consumo.
+
+Adujo Gordillo haber sido víctima de phishing, abundó sobre la responsabilidad de la entidad bancaria, postuló la aplicación al caso de la Ley de Defensa del Consumidor e indicó las infracciones que cometió la demandada a tal norma.
+
+Reclamó en concepto de daño moral que dijo haber sufrido, la suma de ciento cincuenta mil pesos ($150.000). Peticionó además una suma por daño patrimonial de veinte mil pesos ($20.000) por el dinero que tenía en su cuenta, y el valor total de las cuotas descontadas y que se sigan descontando, con mas una suma a estimar por los mails, llamados telefónicos y tiempo dispensado para llevar adelante el presente reclamo. Por último, solicitó la imposición de una multa en concepto de daño punitivo de doscientos mil pesos ($200.000).
+
+(2.) Corrido el pertinente traslado de ley, a pesar de encontrarse debidamente notificada, la demandada Banco Patagonia SA no contestó la demanda, mas allá de haberse presentado luego de producido el vencimiento del plazo el 28.9.21 en fd. 99.
+
+(3.) Con posterioridad y en atención al estado de la causa, se resolvió abrir esta a prueba en fd. 66. y, habiéndose producido las ofrecidas del modo que da cuenta la certificación actuarial del 27.3.23, los autos fueron puestos a los efectos del art. 482 CPCC el 12.4.23, habiendo hecho uso del derecho a que se refiere esa norma la parte actora con su presentación del 25.4.23 y la demandada con el escrito del 16.5.23, dictándose finalmente pronunciamiento definitivo el 21.11.23.
+
+II.LA SENTENCIA APELADA.
+
+Así planteado el caso, en su sentencia, la Señora Jueza de la anterior instancia resolvió admitir parcialmente la demanda incoada y condenar a la demandada a abonar a la actora la sumas de cincuenta y un mil ciento treinta y tres pesos con treinta y ocho centavos ($51.133,38) correspondiente a las cuotas debitadas por el préstamo concedido y veinte mil pesos ($ 20.000) correspondientes a la suma que la actora poseía en su cuenta al momento de la sustracción. Hizo lugar, a su vez, al reclamo por daño moral fijando su resarcimiento en la suma de ciento cincuenta mil pesos ($150.000). A las tres sumas les adicionaron sus respectivos intereses conforme a las pautas especificadas en el mismo fallo.
+
+Para decidir del modo adelantado, señaló que, la falta de contestación de la demanda autoriza a la aplicación del art. 356-1° del CPCC, pudiendo estimarse reconocidos los hechos pertinentes y lícitos a que ella se refiere, y a tener por reconocida o recibida -según el caso-, la documentación a ella acompañada, al no mediar elementos del proceso que desvirtúen sus efectos.
+
+Por otra parte señaló que, la controversia debe ser analizada bajo el prisma de las normas que amparan los derechos de los consumidores dada la relación de consumo que existía entre las partes, teniendo en cuenta, además, el carácter profesional de la demandada que implica un standard de responsabilidad agravada.
+
+Consideró que la documentación agregada a la causa y las restantes pruebas producidas, permitían tener por cierto el relato de la actora relativo a que el préstamo que se depositó en su caja de ahorro no había sido gestionado por ella como también que, una vez acreditado el importe del mismo, se produjo el «vaciamiento» de su cuenta mediante dos (2) transferencias que fueron realizadas por terceros desconocidos de ella.Concluyó que el hecho se trató de una estafa informática denominada phishing que importa una sustitución de identidad.
+
+Dado este contexto fáctico y jurídico le atribuyó la responsabilidad del hecho al Banco demandado e hizo lugar a la demanda. Indicó que en el caso se encontraba acreditado que la actora no participó en la obtención del crédito ni en las transferencias efectuadas con posterioridad, habiendo incumplido la entidad bancaria con su obligación de prestar el servicio con la seguridad exigible.
+
+Establecido ello, pasó a evaluar la procedencia y cuantía de las indemnizaciones reclamadas. En punto al daño material, juzgó acreditado que la actora no había intervenido en la obtención del crédito por la suma de doscientos veintisiete mil pesos ($227.000) el día 20 de julio de 2020 por lo cual lo declaró nulo y ordenó que se elimine de todos los registros del banco lo concerniente a esa operatoria y que no se le cobre a la actora ningún importe relacionado con dicho crédito. Ordenó, asimismo, la devolución a Gordillo de las sumas abonadas los meses de septiembre, octubre, noviembre y diciembre de 2020 que totalizan cincuenta y un mil ciento treinta y tres pesos con treinta y ocho centavos ($51.133,38), mas intereses desde que cada débito fue efectuado.
+
+Desestimó el resarcimiento reclamado por el tiempo destinado a llamadas, envíos de mails y reclamos que la accionante sostuvo que efectuó para intentar solucionar su problema, por no haber siquiera identificado los perjuicios patrimoniales supuestamente sufridos, en razón del tiempo consumido en esas acciones.
+
+Otorgó una suma de ciento cincuenta mil pesos ($150.000) en concepto de daño moral y consideró improcedente la aplicación de la multa requerida en los términos del art. 52 bis de la LDC en concepto de daño punitivo.
+
+III. LOS AGRAVIOS.
+
+(1.) Contra dicha decisión se alzaron ambas partes, mediante los recursos de apelación interpuestos, por la actora en fd. 262 y por el banco demandado en fd. 272, los que fueron concedidos en fd.263 y 273, respectivamente. Mientras que la actora fundó su recurso con el escrito presentado en fd. 289/96, que fue respondido por su contraria en fd. 310/12, la accionada lo hizo mediante el escrito que luce en fd. 298/302, el que mereció respuesta de la accionante en fd. 304/08.
+
+(2.) En su memorial, la accionada se agravió, primero, de que se hubiera concluido que no fue la actora quién realizó las operaciones cuestionadas en la demanda. Luego se agravió de la admisión de los resarcimientos reconocidos por daño material, también de la condena al pago de una indemnización por daño moral y, finalmente, del modo en que fueron distribuidas las costas del pleito.
+
+Con respecto a la primera de esas cuestiones, destacó que al contrario de lo señalado por el «a quo» en la sentencia recurrida, una valoración integral de la prueba desvirtúa la posición de la actora, y probarían en contrario la versión expresada en la queja.
+
+Señaló que el perito informático señaló que: «.La extracción de fondos se realizó mediante transferencias con credenciales validas (usuario y contraseña) para lo cual el banco además solicito segundo factor vía tarjeta de coordenadas.». Agregó que además indi có que no existían evidencias de un fraude informático en los servicios del banco. Advirtió también que al peritar la notebook de la actora el experto indicó que:».Debido a que solo se cuenta con el disco rígido del equipo y no del sistema operativo funcionando en la notebook este experto no ha podido determinar las IP desde donde se conectó el equipo.».
+
+Agregó que la actora efectuó una denuncia penal, que fue efectuada por expresa indicación del banco, y que de esa causa penal no surgía responsabilidad alguna respecto de la destinataria de los fondos transferidos desde la cuenta de Gordillo.
+
+En punto al resarcimiento por daño material, aseveró que, toda vez que las operaciones cuestionadas se habían realizado, o bien a través de la actora, o bien porque ella había cedido sus datos, debía concluirse que el banco había cumplido con su deber de seguridad y, por ende, no correspondía imponerle responsabilidad alguna por el dinero perdido por Gordillo.
+
+En cuanto a la indemnización por daño moral, sostuvo que el daño no había sido demostrado mediante el peritaje psicológico y que no correspondía presumir la existencia de la afección espiritual invocada, como se había hecho en la sentencia apelada.
+
+Finalmente, solicitó la revocación de la condena en costas y sostuvo que aún para el caso de que se confirmara la sentencia apelada, solicitó que se reviera la decisión relativa a las costas y que en todo caso éstas fueran impuestas en el orden causado.
+
+(3.) De su lado, la demandante criticó el rechazo de la condena al pago de daño patrimonial correspondiente al resarcimiento por el tiempo destinado a llamadas, envíos de mails y reclamos. Asimismo se quejó del rechazo del reclamo por daños punitivos.
+
+Finalmente, la Representante del Ministerio Público Fiscal ante esta Cámara dictaminó propiciando la modificación del fallo apelado respecto de la procedencia de la multa por daño punitivo, postulando su acogimiento.
+
+IV.LA SOLUCIÓN.
+
+(1.) Thema decidendum.
+
+En función del contenido asignado por las partes a sus respectivos recursos, el themadecidendum en esta instancia consiste en determinar, en primer lugar, si las operaciones realizadas por terceros no autorizados sobre la cuenta de la accionante pudieron concretarse -más allá de la responsabilidad atribuida al banco por su deficitario cumplimiento del deber de seguridad que le incumbe por el sistema de banca electrónica provisto a su clientela para operar de manera remota en beneficio mutuo- debido a un comportamiento negligente del actor y, en su caso, el grado de injerencia que este último pudo haber tenido en la causación del daño. En función de lo que se decida a ese respecto, corresponderá, además, determinar si sólo la demandada, sólo la actora o ambas partes deberán responder por la pérdida del dinero sustraído por los malvivientes y -en su caso- en qué medida deberá hacerlo cada una de ellas. En caso de que la responsabilidad sea total o parcialmente imputable a la accionada, cabrá, también, determinar si se encuentra probada la existencia del daño patrimonial referido al resarcimiento por el tiempo destinado a reclamarle al banco, el daño moral alegado por la accionante y si resulta pertinente una condena al pago una multa por daño punitivo, como lo pretende Gordillo. Asimismo, corresponderá ponderar el modo en que fueron distribuidos los gastos causídicos en dicho pronunciamiento por mediar agravio específico de la accionada a este respecto.
+
+(2.) Naturaleza de la maniobra ilícita denunciada en autos en sustento del reclamo resarcitorio. ¿» Phishing » o facilitación culpable de los datos que posibilitaron el acceso de terceros a la cuenta de la actora?Determinación el modo en que se concretó el ingreso a la banca electrónica de este último, la posterior solicitud de un préstamo personal y las transferencias con claves de sistema únicamente disponibles para aquella.
+
+En su memorial, la accionada planteó que, contrariamente a lo que concluyera la jueza de la anterior instancia, en la causa existían evidencias suficientes de que su parte había dado cabal cumplimiento a su obligación de seguridad y de que la propia accionante llevo a cabo las operaciones o habría permitido el ingreso de terceros a su cuenta al compartir con ellos las claves de acceso a su banca electrónica.
+
+Para comenzar, cuadra poner de resalto que frente a la omisión de contestar la demanda por parte del banco accionado, resulta pertinente recordar que, la demanda debe ser comunicada al demandado a efectos de que éste pueda ejercer su derecho de defensa, a cuyo fin se ordena su traslado por un plazo determinado. Ahora bien, la orden de traslado de la demanda contiene un doble imperativo judicial: se trata al mismo tiempo de una citación y de un emplazamiento. En efecto, se cita al demandado para que comparezca al juicio y, simultáneamente, se lo emplaza para que conteste la demanda, pudiendo ser las consecuencias en uno y otro caso diversas (Carli, Carlo, La demanda civil, Lex, La Plata, 1977, págs. 121/2).
+
+Por ello, la orden de traslado de la demanda se exterioriza mediante una notificación que tiene una naturaleza compuesta, puesto que se trata de un acto citatorio, en tanto cita al demandado a comparecer al juicio bajo apercibimiento de poder ser considerado rebelde, si así lo pide la contraparte, y un acto emplazatorio, en el que se le otorga al accionado un plazo para el ejercicio de su derecho de oposición o de contradicción y para contestar la demanda (Carli, Carlo, La demanda., op. cit., pág.122). La rebeldía se configura respecto a la parte que no cumple con esa citación y no comparece al proceso dentro del plazo fijado a tal efecto, o que lo abandona después de haber comparecido. Sin embargo, no entraña -sin más- el reconocimiento ficto por parte del rebelde de la verdad de los hechos alegados por la otra parte como fundamento de su pretensión, ni tampoco constituye causal para tener por configurada una presunción iuris tantum acerca de la verdad de esos hechos (esta CNCom., esta Sala A, 27.11.07, in re: «Inspección General de Justicia c. Central Norte S.A.»).
+
+Así pues, en nuestro sistema procesal la declaración de rebeldía constituye el fundamento de una presunción simple o judicial, de manera que incumbe al juez, al valorar los elementos de juicio incorporados al proceso, estimar si de la incomparecencia o del abandono cabe desprender o no, en cada caso concreto, el reconocimiento de los hechos afirmados por la otra parte. En otros términos, la ausencia de efectiva controversia que involucra el proceso en rebeldía no exime al juez de la necesidad de dictar una sentencia justa de acuerdo al mérito del proceso (cfr. Palacio, Lino E., «Derecho Procesal Civil», t° IV, Abeledo Perrot, Bs. As., 1972, p. 202).
+
+Vale aclarar, que tanto en la demanda como en la sentencia recurrida se indica el día 20 de julio de 2020 (20.7.20) como fecha en la que habrían ocurrido los hechos que dan lugar al presente reclamo. Sin embargo, de la pericial informática punto 17 surge que estos fueron llevados adelante los días 17 y 18 de julio de ese año. En el mismo sentido, refieren a que la suma del préstamo otorgado por el banco e inmediatamente transferida sería de doscientos veintisiete mil pesos ($227.000) , cuando según surge de la pericia citada (pto.17), el crédito otorgado fue por el monto de doscientos treinta mil pesos ($230.000) y se transfirieron doscientos veintinueve mil pesos ($229.000) .
+
+En este contexto, no se encuentra controvertido que el 18.7.20 el banco demandado le otorgó la actora un préstamo personal preaprobado por doscientos treinta mil pesos ($230.000) . Préstamo que Gordillo aseveró fue solicitado por terceros sin su autorización, y que pudieron concretar gracias al incumplimiento de la demandada de su obligación de seguridad. Tampoco se debate que el dinero correspondiente a ese crédito se depositó ese mismo día en la cuenta de la actora y que, a continuación, se efectuaron dos (2) transferencias a través del sistema de banca electrónica a la destinataria que fue adherida momentos antes (el 18.7.20), operaciones mediante las cuales no sólo se sustrajeron doscientos veintinueve mil pesos ($229.000) del dinero correspondiente al mutuo, sino, también, la suma de veinte mil pesos ($20.000) que la accionante tenía depositadas en su cuenta (según pericial informática pto. 17).
+
+Esos hechos quedaron reconocidos por el banco ante su omisión de contestar demanda. Pese ello, en su queja, la accionada afirmó que de ninguna manera puede concluirse que se llevaron adelante por un actuar negligente de su parte.
+
+Específicamente señaló que el experto indicó que:»La extracción de fondos se realizó mediante transferencias con credenciales validas (usuario y contraseña) para lo cual el banco además solicito segundo factor vía tarjeta coordenadas.» y en ese sentido, dado que en la actora no indicó en la demanda ninguna situación o acontecimiento inusual por el cual hubiera sido despojada de su tarjeta de coordenadas (segundo factor) o hubiera facilitado los datos de la misma, solo cabría concluir que fue la propia Gordillo la que realizó las operaciones o bien que ella cedió los datos para realizarlas, y que su parte había cumplido con su deber de seguridad, sin que corresponda atribuirle responsabilidad alguna.
+
+Cabe señalar que dado lo que surge de la pericial informática, la tarjeta de coordenadas no necesariamente sería un elemento físico que la Sra. Gordillo pudo haber facilitado a un tercero, sino un elemento electrónico al cual se pudo acceder a través del sistema de banca electrónica de la accionada.
+
+Por otra parte, ante la omisión de contestar la demanda por parte del banco, cabe tener por reconocido que los hechos denunciados fueron perpetrados por terceras personas sin el verdadero consentimiento de la accionante, debiendo determinarse cómo debe efectuarse la atribución de responsabilidad entre las partes por el hecho de que ese delito hubiera podido perpetrarse, es to es, si fue gracias a la negligencia del accionante en el cuidado de sus claves bancarias, o si pudo ocurrir como consecuencia de deficiencias en la seguridad del sistema de banca electrónica provisto por la demandada, o bien, si ello tuvo lugar por la conjunción de las conductas de ambas partes cuya interacción dio lugar a que pudiera concretarse el hecho. Efectuada esa aclaración y para poder determinar las responsabilidades de las partes, es menester, primero, reconstruir el modo en que ocurrieron los hechos de acuerdo con la prueba producida en la causa, a lo que me abocaré a continuación.
+
+En su informe, el experto informático indicó que para efectuar la maniobra de cuyos perjuicios se reclama resarcimiento, se llevó a cabo lo siguiente:(1) A través del sistema de banca electrónica del demandado, se ingresó el día 17.7.20 entre las 15:31 y las 15:36 horas y se modificó el e-mail registrado; (2) el mismo día entre las 22:29 y las 22:32 horas se efectuaron una serie de consultas y se valida un CBU; (3) el día 18.7.20 se realiza una consulta de fondos a las 15:44: (4) ese mismo día entre las 16:22 y las 16:31 horas se solicitó el préstamo de $230.000 y se efectuaron las 2 transferencias a la cuenta de Sheila Solange Betancort. Indicó el experto que se ingresó con usuario y contraseña (credenciales válidas) y que para el cambio de e-mail se envió un correo electrónico tanto a la dirección original como a la nueva.
+
+Es cierto que, como lo señala la demandada, el perito manifestó que desde el punto de vista técnico no surgieron evidencias de fraude informático en los servicios del banco para acceder a sus cuentas.
+
+Así, pues, se advierte que, para ingresar a la cuenta del accionante, solicitar el préstamo y concretar las transferencias, terceras personas tuvieron que tener conocimiento de: (i) el DNI la actora, (ii) su usuario de banca electrónica, y (iii) la clave de ingreso.
+
+Establecido ello, es sabido que el uso masivo de la operatoria bancaria virtual, especialmente con motivo del aislamiento provocado por la pandemia Covid-19, trajo aparejado consigo el incremento exponencial de los ciberdelitos, siendo los más usuales el «Phishing», el «Malware», el «Haching» y el «Exploit». A través del «Phishing» se engaña a los usuarios de internet para que proporcionen sus datos personales, como contraseñas o claves de acceso a cuentas bancarias, utilizándose llamadas telefónicas, aplicaciones de mensajería, correos electrónicos o redes sociales, a través de las cuales el estafador se hace pasar por una persona o entidad de confianza para establecer comunicación con la víctima.El «Malware» involucra un software instalado de manera involuntaria con el objetivo adquirir información personal. A través del «Hacking» se obtiene un acceso ilegal a la computadora de alguien en forma remota.
+
+Finalmente, el «Exploit» aprovecha fallos de seguridad, defectos o vulnerabilidades de otros programas o sistemas informáticos, con el fin de obtener algún tipo de beneficio o de llevar a cabo a una acción concreta (esta CNCom., Sala A, 12.6.24, «Filippo, Gustavo Emilio c/ Banco Santander Rio S.A. s/sumarísimo»). En el caso, de las pruebas colectadas en las causa no es posible concluir con certeza cuál fue puntualmente la modalidad adoptada para hacerse de la información de acceso a la banca electrónica del actor, aunque las maniobras reflejadas en el informe presentado por el perito y el aparente conocimiento de los delincuentes de las claves bancarias del accionante sugieren que la modalidad utilizada fue el phishing, tornándose verosímil en virtud de lo que resulta del informe técnico producido en la causa que de algún modo el actor pudo haber contribuido -en rigor, debió hacerlo- para que la maniobra delictiva pudiese ser consumada.
+
+En cuanto al modo en que se dispuso del dinero depositado en la cuenta del accionante, de los movimientos que se informan en la pericia se advierte que el 18.7.20 se efectuaron dos (2) transferencias desde la cuenta de la actora, ambas a la cuenta de Sheila Solange Betancort que fue agregada a la agenda de la actora el día anterior (ver pto. 17 del peritaje informático).
+
+En la causa penal no pudo darse con la persona titular de la cuenta bancaria que recibiera las transferencias. No hay elementos de prueba que permitan establecer la existencia de algún vínculo entre el demandante y la receptora de las transferencias, ni tampoco la accionada pudo generar evidencia alguna de que ello existiera.Tampoco si la destinataria del dinero transferido era la autora de la maniobra o cuál era el vínculo entre ella y quién haya llevado adelante la maniobra.
+
+Habiendo quedado implícitamente reconocido al no contestar la demanda el hecho de que terceros accedieron a la banca electrónica de la accionante, se puede concluir que estos terceros habían tomado un préstamo preaprobado que se ofrecía por tal vía y, luego, habían transferido el dinero obtenido a través de ese mutuo, junto con el que se hallaba depositado al 18.7.20 en la cuenta de Gordillo.
+
+Establecido de ese modo la reseña de los hechos del caso de acuerdo con las constancias de autos, corresponde a continuación determinar, también con base en ese cuerpo probatorio, qué grado de responsabilidad corresponde atribuirles a las partes de este proceso en la ocurrencia del suceso que motivara su promoción, en orden a lo cual se analizará primero el rol que le cupo a la entidad bancaria en la maniobra y, luego, el papel que pudo haber jugado el accionante para que pudiese perpetrarse la maniobra delictiva.
+
+(3.) Responsabilidad del banco. Papel jugado por este último para que pudiera perpetrarse el delito sobre la cuenta de la actora.
+
+En su queja, el banco sostuvo que no tenía responsabilidad alguna por el hecho cometido por la propia accionante o bien por terceros, arguyendo que si fuera una acción de terceros fue posible por la negligente custodia por parte del actor de su información de acceso a la banca electrónica.En ese sentido, alegó que había cumplido adecuadamente con su obligación de seguridad y que, incluso, había remitido al accionante el correo electrónico en el que le notificó la operación de cambio de correo electrónico que se concretó el 17.7.20, y todas las operaciones se llevaron adelante correctamente, comportamiento con el que -según entendió- había agotado su deber de diligencia para con el accionante.
+
+A fin de dilucidar la existencia o no de responsabilidad por parte de la demandada por la sustracción sufrida por el actor, resulta pertinente recordar que la conducta de toda entidad bancaria se mide con mayor severidad que la de los particulares, por tratarse de una actividad profesional que debe ajustarse a un estándar especial de responsabilidad agravada, dado que desarrolla una actividad que no puede apreciarse con los mismos parámetros que resultan aplicables a un particular medio, pues toda institución bancaria es un ente mercantil al que debe atribuirse un alto grado de especialidad, con obvia superioridad técnica sobre sus clientes, circunstancia que la obliga a obrar con prudencia y conocimiento de su actividad profesional conforme lo dispuesto en el art. 1725 CCyC (Gerscovich Carlos, Consumidores Bancarios, Astrea, Bs. As., 2011, p. 102; esta CNCom., esta Sala, 12.6.24, «Filippo.», op. cit.).
+
+Estando los bancos sujetos al deber profesional de obrar con prudencia y pleno conocimiento de las cosas, su responsabilidad contractual debe medirse con un patrón de mayor severidad, correspondiendo que repare los daños y perjuicios sufridos por su cliente, por su culpa o dolo inexcusable. Es que la calidad de banquero es un antecedente jurídico necesario que lo somete a la doctrina del riesgo profesional y a los principios generales de la culpa civil y del art. 1725 CCyC, porque la ecuación confianza-asunción de riesgo se traduce en una acción profesional de tutela:la oferta profesional de un servicio debe ser satisfecha de acuerdo a la expectativa que genera (López Mesa, Marcelo, «La apreciación de la culpa según la capacidad y circunstancias del agente», JA 2014-IV; esta CCom., Sala A, 12.6.24, «Filippo.», op. cit.).
+
+Desde otro lado, la opción con la que cuentan los titulares de operar sobre sus cuentas a través del sistema de banca electrónica forma parte de la prestación del servicio bancario ofrecido por la accionada, de modo que, no hallándose discutido que su relación con el accionante fue una de consumo en los términos de los arts. 1, 2 y 3 LDC, le es atribuible una responsabilidad objetiva por los daños derivados del vicio en la prestación de ese servicio en los términos del art. 40 LDC (en igual sentido, Chamatrópulos, Demetrio A., «Los daños sufridos por usuarios de cajeros automáticos», publicado en Tratado de Derecho Bancario, Dir.: Ma. Elisa Kabas de Martorell, t. II, RubinzalCulzoni, Santa Fe, 2011, p. 490; esta CNCom., Sala A, 20.8.24, mi voto in re: «Panizzi, Marisa Daniela c/ Banco Patagonia SA s/ ordinario»).
+
+Encuadrada de ese modo la responsabilidad de la entidad bancaria por las operaciones efectuadas a través del sistema de banca electrónica, como en este caso, la defensa central que planteó, consistente en sostener que habría cumplido debidamente con su obligación de seguridad, resulta inadecuada. Es que, tratándose de un supuesto de responsabilidad objetiva, no fue la suya una obligación de medios que le permitiera eludir cualquier reclamo demostrando la adopción de medidas razonables para evitar el daño sufrido por el demandante, sino que, para eximirse total o parcialmente de su responsabilidad, debía acreditar que la causa de aquél le era totalmente ajena (arts. 1722 CCyC y 40 LDC).
+
+Se ha dicho en ese sentido, con referencia a la anterior regulación del Cód. Civ.que no fue sustancialmente alterada en el CCyC, que la responsabilidad por el vicio o riesgo de la cosa es inexcusable, sea con respecto al guardián o al dueño de ella. Ello significa que tal responsabilidad no puede quedar excluida por la prueba que se intente rendir acerca de la inculpabilidad del responsable, sino que hay necesidad de establecer la existencia de un hecho con el cual sea incompatible aquella responsabilidad. De ese modo, el dueño está inhibido para probar su ausencia de culpa, puesto que sería estéril semejante prueba dado que, aún rindiéndola, no por ello quedaría exento de la responsabilidad que le cuadra en la misma situación por el daño causado por el riesgo de la cosa -o de la actividad-, la cual prescinde del elemento subjetivo de culpa (Llambías, Jorge J., Tratado de Derecho Civil-Obligaciones, t. IV A, 3era ed., Lexis Nexis, Bs. As., 2005, pp. 574/5).
+
+Para el juego de la responsabilidad por el vicio de la cosa es menester que concurran los siguientes requisitos: (i) la existencia de un vicio, esto es, un defecto aparente y oculto que hace a la cosa impropia para empleo que se le dio, comunicándole una «dañosidad»; (ii) el daño del damnificado; (iii) la relación de causalidad entre la intervención de la cosa y ese daño, y (iv) la calidad de dueño o guardián de la cosa (Llambías, Jorge J., op. cit., p. 575).
+
+De igual modo, tampoco es excusable la responsabilidad del dueño o guardián de una cosa riesgosa o la de quienes desarrollan una actividad riesgosa o peligrosa que dañe a la víctima (art. 1757 CCyC), aún cuando aquélla no hubiera presentado vicio alguno. En esos casos, los requisitos para la configuración de la responsabilidad son:(i) la ausencia de autoría humana con respecto a la acción de una cierta cosa que no es dable calificar como hecho del hombre, (ii) el daño sufrido por el pretensor de la indemnización, (iii) la relación de causalidad entre la acción de la cosa y el daño y (iv) la calidad de dueño o guardián de la cosa (Llambías, Jorge J., op. cit., pp. 593/4).
+
+En el caso, si bien son claros los beneficios derivados para los clientes de la existencia del sistema de banca electrónica, en tanto les permite operar sobre sus cuentas sin necesidad de concurrir a una sucursal bancaria, en horarios inhábiles e incluso desde el exterior del país, al mismo tiempo dicho servicio también reporta beneficios para la entidad bancaria, dado que le permite reducir el costo de su operatoria presencial. Pero, a la par de esos beneficios, es también claro que dicho sistema entraña un riesgo para ambas partes, en tanto facilita la realización de operaciones sobre las cuentas de los clientes sin que medie la conformidad de estos últimos.
+
+También es evidente que, en el sublite, los hechos denunciados la celebración de un mutuo a nombre de la actora sin su consentimiento y la sustracción del dinero depositado en su cuenta a través de la realización de transferencias- sólo pudieron haber sido concretados en el marco de una operatoria remota y aprovechando el riesgo propio de aquélla.En efecto, si esos terceros hubieran pretendido realizar tales conductas y no mediara la existencia del servicio de banca electrónica, no habrían podido lograr su cometido, toda vez que, en una sucursal bancaria, deberían haber acreditado su identidad y, en su caso, deberían haber demostrado tener un mandato del accionante, lo que habría impedido concretar el delito.
+
+En este marco, es indiscutible que, por su condición de entidad predisponente del sistema con el que operan los clientes para vincularse por vía remota con dicha entidad, banca electrónica, el banco demandado es responsable de que tal sistema haya podido ser vulnerado por terceros para que éstos pudieran defraudar a la accionante; ello así por cuanto este último tiene frente a la actora una responsabilidad objetiva por los daños que aquél pudiera sufrir como consecuencia del vicio o riesgo del sistema que implementó, de lo cual resulta irrelevante evaluar su diligencia en la gestión de aquél sistema pues, más allá de esa diligencia, responde objetivamente por las fallas de seguridad de este último.
+
+Ahora bien, resta determinar si, más allá de esa responsabilidad, es o no posible atribuirle, en paralelo, algún tipo de responsabilidad a la accionante por haber sido negligente en la custodia de sus datos de acceso al sistema y, en su caso, si esa conducta exime total o parcialmente de responsabilidad a la accionada por esos perjuicios.
+
+(4.) La eventual responsabilidad concurrente del accionante y su contribución para posibilitar la concreción del hecho delictual.
+
+En su queja, el banco demandado sostuvo que había cumplido con las medidas de seguridad adecuadas y que, además, las operaciones cuestionadas se habían podido concretar porque Gordillo las había realizado o bien, porque le había facilitado sus claves de acceso a terceras personas, lo que habría constituido el antecedente causal del daño invocado, que, por serle ajeno, lo eximiría de responder por este último.
+
+En cuanto a la culpa de la víctima en el ámbito de la responsabilidad objetiva, cuando ella constituye la única causa del daño,el dueño o guardián de la cosa viciada o riesgosa queda liberado de su responsabilidad, pues lógicamente si el daño fue producido por la culpa del damnificado, no pudo ser causado por el vicio o riesgo de la cosa. En cambio, cuando la prueba sólo consigue demostrar la parcial influencia causal de la culpa de la víctima en la producción del daño, la exención del dueño o guardián es también sólo parcial. Es que entonces se presenta una conjunción de causas, a saber, la probada culpa de la víctima y la no eliminada presencia activa del vicio o del riesgo de la cosa o la actividad, sin que un factor absorba al otro. Consiguientemente hay necesidad de desgravar al dueño, al guardián o a quien realiza la actividad riesgosa de la parte del daño atribuible a la dosis de causalidad inherente a la culpa del damnificado, quedando el remanente del perjuicio a cargo del dueño o guardián cuya responsabilidad no fue enteramente eliminada (Llambías, pp. 577/8).
+
+Según se señaló en el apartado (2.), para poder ingresar a la banca electrónica de la actora y efectuar las operaciones cuestionadas, los delincuentes debieron tener conocimiento de: (i) el DNI del accionante, (ii) su usuario de banca electrónica, (iii) la clave de ingreso y (iv) acceso a la tarjeta de coordenadas con la que concretaron la solicitud del mutuo.Todo ello, tal como señaló el experto en informática, se llevó adelante utilizando la clave de ingreso de la accionante al sistema.
+
+Ese último dato revela que este último tuvo que tener, necesariamente, algún tipo de participación, voluntaria o involuntaria, en la facilitación a los terceros de sus datos de ingreso.
+
+En ese marco, hallo que el hecho pudo perpetrarse explotando el riesgo ínsito en la actividad bancaria remota al que ya hice referencia pero, también e inexorablemente, gracias a la facilitación -voluntaria o involuntaria- de la información de acceso a la cuenta por parte del accionante, de modo tal que ambas conductas tienen el carácter de antecedentes con-causales determinantes de la provocación del daño, lo cual autoriza a considerar configurado un supuesto de «concurrencia» de culpas o de factores de atribución de responsabilidad, concurrencia que autoriza a distribuir entre los copartícipes las consecuencias perjudiciales del evento dañoso, lo que así propongo al Acuerdo (Bustamente Alsina, «Teoría General de la Responsabilidad Civil», Ed. Abeledo-Perrot, Bs. As., 1986, págs. 257/8, íd. Belluscio, «Código Civil Comentado, Anotado y Concordado», Ed. Astrea, Bs. As., 1984; íd. Llambías, «Tratado de Derecho Civil», Obligaciones, Ed. Perrot, Bs. As., T. I, págs.216/7, nº 177; etc.).
+
+En esas condiciones, debe concluirse que, dado que los terceros que concretaron la sustracción del dinero depositado en la cuenta de la actora tuvieron que haber tenido acceso a los datos de ingreso que el accionante tenía bajo su custodia para llevar adelante la acción, la accionada debe considerarse eximida parcialmente de su responsabilidad por el daño sufrido por la actora como consecuencia del desapoderamiento del dinero que tenía depositado en su cuenta bancaria, restando sólo determinar la medida de esa responsabilidad.
+
+(5.) Distribución de la responsabilidad entre la actora y la demandada por las consecuencias que la conducta de cada uno de ellos tuvo en el caso sub examine.
+
+Dado que se llegó a la conclusión de que tanto el accionante como la accionada tuvieron una participación en la producción del daño sufrido por el primero de ellos, esa circunstancia determina que ambas partes deberán soportar parcialmente las consecuencias de ese hecho.
+
+En cuanto a la proporción en que cada una de las partes habrá de contribuir a la reparación del daño, habida cuenta que la concurrencia de culpas se verifica en el origen del incumplimiento de la obligación y que por ello la imputación del daño debe hacerse en la medida de la gravitación de cada conducta culposa en la producción del daño total (cfr. Llambías, ob. cit., pág. 218), ante la falta de elementos de juicio que autoricen a atribuir mayor gravitación a la responsabilidad de una de las partes sobre la de la otra, el criterio más razonable es el de distribuir los efectos de la reparación del daño por partes iguales entre los copartícipes, tal como lo decidiera en casos análogos al presente, tanto durante mi desempeño como juez de primera instancia (JNCom. 16, 13.10.04, in re: «Pauver S.A. c. Banco Bansud S.A. s. ordinario»), como también en calidad de integrante de este Tribunal (esta CNCom., esta Sala, 20.8.24, mi voto in re:»Panizzi, Marisa Daniela c/ Banco Patagonia SA s/ordinario»).
+
+En tal inteligencia cabe concluir que, habiendo existido concurrencia de causas en la producción del perjuicio derivado de la operatoria de autos, atribuibles cada una de ellas a las diversas partes litigantes, en una medida que no es posible cargar con mayor intensidad a una de ellas sobre la otra, no cabe otra solución más que disponer que la reparación de dicho perjuicio deba ser soportada en la proporción del cincuenta por ciento (50%) por el accionante debido a su contribución concausal a la producción del daño a través de un comportamiento que cabe calificar como «culpa de la víctima» y en el cincuenta por ciento (50%) restante por el banco demandado, por su responsabilidad objetiva «por riesgo o vicio de la cosa» que le cabe como proveedor del servicio de banca electrónica y su deber de seguridad sobre el adecuado funcionamiento de ese servicio.
+
+En ese entendimiento, propondré a mis colegas mantener la declaración de nulidad del préstamo otorgado, admitir parcialmente la queja de la accionada, y modificar la sentencia apelada como se expresa a continuación:La actora deberá restituir el 50% de cada una de las sumas debitadas a la actora por el crédito otorgado correspondientes a los meses de septiembre por doce mil setecientos cinco pesos con ochenta y cuatro centavos ($12.705,84), octubre por doce mil seiscientos noventa y cinco pesos con treinta y cuatro centavos ($12.695,34), noviembre por trece mil cincuenta y nueve pesos con trece centavos ($13.059,13) y diciembre por doce mil seiscientos setenta y tres pesos con siete centavos ($12.673,07), con más los intereses que indicará la jueza «a quo» los cuales no fueron cuestionados, esto es la suma de cincuenta y un mil ciento treinta y tres pesos con treinta y ocho centavos ($51.133,38).
+
+Por otro lado, dado que también fue probado que a la actora le fue sustraída mediante la transferencia efectuada el día 18.07.2020 la suma de veinte mil pesos ($20.000) que poseía depositada en su cuenta, condenaré a la demandada a restituir a la accionante el 50% de tal importe con más los intereses indicados en la sentencia apelada.
+
+Dado el modo en que se resuelve se rechaza la queja de la accionante referida al daño patrimonial referido al resarcimiento por el tiempo destinado a reclamarle al banco.
+
+(6.) Daño moral.
+
+En su memorial, la accionada se agravió, también, de la admisión de la indemnización por daño moral en tanto consideró que no se había probado la existencia de ese perjuicio.
+
+Fecha de firma: 28/10/2025 Alta en sistema: 03/11/2025 El resarcimiento de este tipo de daño en materia contractual debe ser apreciado con criterio restrictivo, teniendo en cuenta que no se trata de una reparación automática tendiente a resarcir las desilusiones, incertidumbres y disgustos que toda inejecución contractual trae aparejados, sino solamente determinados padecimientos espirituales que, de acuerdo con la naturaleza del hecho generador de la responsabilidad y circunstancias del caso, así lo hagan menester (esta CNCom. esta Sala A, 27.11.07, «Sudaka S.R.L.c/ Pol Ka Producciones S.A.»; id. 12.12.06, in re: «BVR c/ Banco Francés»; íd., 28.12.81, «ZanettaVictor c/ Caja Prendaria S.A. Argentina de Ahorro para Fines Determinados; íd., 13.07.84, «Coll Collada Antonio c/ Crespo S.A.»; íd., 28.2.85, «Vanasco Carlos A. c/ Pinet Casa»; 13.3.86, «Pazos Norberto c/ Y.P.F. y otros», y sus citas; íd. 15.11.1996, «Chavey, Angela c/ Empresa de Colectivos Línea 10»; id., Sala C, 19.9.92, «Farre Daniel c/ Gerencial Fondo Administrador S.A. de Ahorro para Fines Determinados»; íd., Sala B, 21.03.90, «Borelli Juan c/ Omega Coop. de Seguros Ltda.»; entre muchos otros).
+
+Asimismo, cabe recordar que se ha dicho que, para que resulte procedente la reparación moral, es necesario considerar la repercusión que la acción dañosa provoca en la persona afectada. Las molestias, así como los reclamos extrajudiciales o la necesidad de accionar judicialmente para obtener el reconocimiento de su derecho indemnizatorio, no constituyen daño moral: para que así sea, es menester alegar y probar -razonablemente- la modificación disvaliosa del espíritu, de querer o sentir del supuesto damnificado para, así, admitir tal rubro indemnizatorio (esta CNCom., Sala D, 26.5.87, «Sodano de Sacchi c/ Francisco Diaz S.A. s/ sumario»). Es que el agravio moral importa una lesión a las afecciones legítimas: entre otras, la paz, la tranquilidad de espíritu, la libertad individual, el honor, la integridad física, los afectos familiares, aunque no cualquier inquietud o perturbación del ánimo derivados de la privación de bienes materiales son suficientes para justificarlo (esta CNCom., Sala B, 12.8.86, «Katsikaris, A. c/ La Inmobiliaria Cia. de Seguros s/ ordinario»).
+
+Se ha sostenido también, en esa dirección, que en los supuestos de responsabilidad contractual la regla de que está a cargo de quien lo reclama la acreditación de su concreta existencia cobra especial significación.Y esto es así porque, si la noción de daño moral se halla vinculada al concepto de desmedro extrapatrimonial o lesión en los sentimientos personales, aparece como evidente que no puede ser equiparable ni asimilable a las meras molestias, dificultades, inquietudes o perturbaciones propias de todo incumplimiento contractual, en tanto estas vicisitudes son propias del riesgo de cualquier contingencia negocial (Borda Guillermo, «La Reforma al Código Civil» E.D. 29-763), razón por la cual es exigible que quien lo invoque acredite las especiales circunstancias a las que la ley subordina la procedencia de este resarcimiento.
+
+Sin embargo, hallo que, dadas las particulares circunstancias del caso e, incluso, teniendo en consideración el criterio de apreciación restrictivo recién referido, el hecho lesivo tuvo la aptitud para generar el perjuicio invocado y que ello surge de manera notoria de las constancias de la causa (art. 1744 CCyC). En ese sentido, encuentro evidente que la vulneración de su banca electrónica, la asunción de un mutuo a su nombre que no consintió y la posterior sustracción del dinero que tenía depositado en su cuenta, hubo de causarle al accionante un estado de zozobra y angustia significativos que deben ser compensados por la entidad bancaria en la medida de su responsabilidad por ese hecho dañoso.
+
+En ese marco, encuentro que corresponde confirmar la sentencia apelada en cuanto admitió el resarcimiento bajo análisis.Por otra parte, entiendo que, aún meritando que aquí se arribó a la conclusión de que ambas partes debían responder por los daños constatados, la suma indemnizatoria establecida en el pronunciamiento apelado, de ciento cincuenta mil pesos ($150.000), resulta adecuada para subsanar el perjuicio espiritual que tuvo en el accionante la participación de la demandada en la ocurrencia de ese hecho, más allá de la concurrencia de un supuesto de responsabilidad atribuible a su parte, de modo que propongo confirmar ese aspecto de la condena, a pesar de la contribución del recurrente a la ocurrencia del evento dañoso.
+
+Propongo por ello, desestimar la queja de la demandada, debiendo confirmarse la condena al pago de una indemnización en concepto de daño moral de ciento cincuenta mil pesos ($150.000) dispuesta por la a quo, con más sus respectivos accesorios calculados del modo establecido en la sentencia apelada.
+
+(7.) Daños punitivos.
+
+En su expresión de agravios, el actor se quejó de que no se hubiera admitido la condena al pago de daños punitivos. Adujo que, contrariamente a lo decidido en la anterior instancia, se hallaban reunidos los requisitos para su procedencia.
+
+(i.) A los fines de ingresar en el tratamiento de la procedencia de la pretensión de marras, corresponde efectuar ciertas precisiones en cuanto al instituto del «daño punitivo», así como en los presupuestos necesarios para la procedencia de tal sanción en el derecho argentino.
+
+Se trata de un instituto de sólido predicamento en el derecho anglosajón, donde se lo designa bajo la denominación de «punitive damages» (también, «exemplarydamages», «non compensatorydamages», «penal damages», «aggravateddamages»; «additionaldamages», etc.) y que ha comenzado a proyectarse gradualmente, también dentro del sistema continental europeo, en Canadá y recientemente, entre nosotros, traducido literalmente al español como «daños punitivos», aunque comparto que tal denominación resultaría objetable, pues lo que se pune o sanciona son ciertos ilícitos calificados por su gravedad y no, el daño en sí mismo, tal como acota Pizarro («Derecho de Daños»; Ed.La Rocca, Buenos Aires 1993, pág. 291, nota 7).
+
+En algunos de los países anglosajones, se ha interpretado que consiste en una cantidad económica que debe desembolsar el responsable de un daño no para compensar al demandante -víctima del perjuicio sufrido- sino con la finalidad de impedir y de disuadir al demandado y a otras personas de que realicen actividades tales como las que causaron daños al demandante, constituyendo así una especie de «pena privada» para disuadir a toda la sociedad de la realización de actos particularmente dañosos y graves, como los daños al medio ambiente, a la salud y a la seguridad pública (véase, P. Salvador Cordech; «Punitive Damages», Indret, septiembre de 2001; E. D ´Alessandro; «Pronunce americane di condanna al pagamento di punitive damages e problemi di riconoscimento in Italia», Rivista di dirittocivile, 2007, I, pág. 384 y ss; R. Pardolesi; «Dannipunitivi: frustrazione da vorrei, ma non posso?», Rivista critica del dirittoprivato, 2007, pág. 341 y ss.). Cabe acotar, que se ha señalado, muchas veces, que las cifras que en los Estados Unidos y en Reino Unido se conceden como «daños punitivos» alcanzan proporciones muy significativas y que su impacto social es enorme, de ahí que para su reconocimiento internacional, las sentencias con condenas de este tipo hayan sido sometidas a «tests de proporcionalidad» y «tests de vinculación espacial» (véase al respecto: Alfonso Luis Calvo Caravaca – Javier Carrascosa González; «Las obligaciones extracontractuales en Derecho internacional privado», Ed. Comares, Granada 2008, pág. 68/9).
+
+Entre nosotros el «daño punitivo» ha sido definido como las sumas de dinero que los tribunales mandan pagar a la víctima de ciertos ilícitos, que se suman a las indemnizaciones por daños realmente experimentados por el damnificado, que estén destinados a punir graves inconductas del demandado y a prevenir hechos similares en el futu ro (conf. Pizarro, Ramón D.; «Derecho de Daños»; Ed. La Rocca, Buenos Aires 1993, pág.291).
+
+Dicho instituto, como se ha dicho, participa de la naturaleza de una pena privada, que se manda a pagar por encima de los valores en los que se condene en calidad de «daños y perjuicios» y se encuentra destinada, en nuestra regulación, en principio, al propio damnificado. Esta pena privada está estrechamente asociada a la idea de prevención de ciertos daños y también, al castigo y al desbaratamiento, a futuro, de los efectos de ilícitos que, por su gravedad o por sus consecuencias, requieren algo más que la mera indemnización resarcitoria de los perjuicios causados (véase, en esta línea, CACiv. y Com. Mar del Plata, Sala II, 27.05.2009, in re: «Machinandiarena Hernández Nicolás c/ Telefónica de Argentina»).
+
+Así, se ha sostenido que el instituto cumple una tríada de funciones, a saber: a) sancionar al causante de un daño inadmisible; b) hacer desaparecer los beneficios injustamente obtenidos a través de la actividad dañosa; y c) prevenir o evitar el acaecimiento de hechos lesivos similares, al que mereciera la punición (conf. Trigo Represas, Félix; «La responsabilidad .», supra citado).
+
+En el mismo sentido, ha sido dicho que la finalidad de los daños punitivos es: a) punir graves inconductas; b) prevenir futuras inconductas semejantes, ante el temor de la sanción; c) restablecer el equilibrio emocional de la víctima; d) reflejar la desaprobación social frente a graves inconductas; e) proteger el equilibrio del mercado (conf. Pizarro, Ramón D.; «Derecho.»; obra supra citada, pág. 302/4).
+
+En la jurisprudencia norteamericana esta figura ha encontrado debido cauce dentro de las llamadas «classactions», que se han convertido en el ámbito apropiado para el tratamiento de las cuestiones relativas a casos de responsabilidad donde los daños resultan agravados por la proyección social y la magnitud del perjuicio que causan (véase la referencia al litigio del Exxon Valdez en «Manual forComplexLitigation, Third», Federal Judicial Center, Washington DC 1995, pág.325), éste resulta, quizás un quicio más razonable para la eventual indemnización que el destino individual del beneficio, a poco que se reflexione sobre la teleología disuasoria y ejemplificadora que inspira la razón de ser del resarcimiento en cuestión.
+
+Ahora bien, los «daños punitivos», hasta hace no mucho tiempo extraños a nuestro derecho, se han convertido en ley positiva en el país a partir de la sanción, en el año 2008, de la Ley 26.361 (modificatoria de la Ley 24.240), mediante dicha normativa se ha incorporado el citado instituto en el artículo 52 bis de la Ley de Defensa del Consumidor.
+
+La referida norma prevé frente, «al proveedor que no cumpla sus obligaciones legales o contractuales con el consumidor, que a instancia del damnificado, el juez podrá aplicar una multa civil a favor del consumidor, la que se graduará en función de la gravedad del hecho y demás circunstancias del caso, independientemente de otras indemnizaciones que correspondan». Se dispone también que «la multa civil que se imponga no podrá superar el máximo de la sanción de multa prevista en el artículo 47, inciso b) de esta ley» (conf. Ley 24.240, artículo 52 bis).
+
+Pues bien, efectuadas las breves precisiones precedentes en punto al instituto en cuestión, cabe determinar cuáles son los presupuestos que deben requerirse como necesarios para autorizar a conceder una indemnización adicional por dicho concepto.
+
+En ese cometido, debe aclararse, en primer lugar, que si bien, para la procedencia del «daño punitivo» la literalidad de la norma sólo parecería exigir el incumplimiento por parte del proveedor de sus obligaciones legales o contractuales y así ha sido entendido en algunos precedentes que estiman que lo único que se requiere es la existencia de dicho incumplimiento (conf. CACiv. y Com. Mar del Plata, Sala II, in re:»Machinandiarena.» supra citado), lo cierto es que tal postura no puede ser compartida, a poco que se repare en que tan ligera apreciación resulta contraria a la propia esencia del instituto que se recoge y debe entenderse que deviene contraria al espíritu de la norma.
+
+Asimismo, cabe señalar que el consenso dominante sobre la materia, tanto en el derecho comparado como en nuestra doctrina, es el de que las indemnizaciones o daños punitivos únicamente proceden en supuestos de particular gravedad, calificados por el «dolo o la culpa grave» del sancionado, o por la obtención de enriquecimientos derivados del ilícito, o en ciertos casos, por un abuso de posición de poder, particularmente cuando ella evidencia un menosprecio grave por derechos individuales o de incidencia colectiva (véase: Trigo Represas, Félix; «La responsabilidad civil en la nueva ley de defensa del consumidor», La Ley On Line; Stiglizt Rubén – Pizarro Ramón; «Reformas a la ley de defensa del consumidor», LL, 2009-B, 949).
+
+De otro lado, debe destacarse que, en términos generales, cuando los precedentes se refieren a la existencia de «culpa grave», se trata de aquella que constituye una falta grosera, esto es, la que consiste en el hecho de no haber tomado una precaución que todo el mundo habría juzgado necesaria. Este tipo de culpa únicamente se configura cuando media una manifiesta y grave despreocupación,
+
+identificándose con la voluntad consciente más que con el simple descuido (esta CNCom., esta Sala A 06.12.07, in re: «Valiña Carlos c/ Mercantil Andina Cía de Seguros S.A.s/ ordinario»).
+
+Esta postura de que el «daño punitivo» no resulta aplicable en cualquier supuesto, también puede ser observada entre los fundamentos esgrimidos durante el debate parlamentario que precedió a la sanción de la normativa en cuestión, donde se ha expresado que «con el daño punitivo se trata de desbaratar la perversa ecuación que aconseja dejar que se produzca un perjuicio pues, en sí resulta más económico repararlo en los casos singulares que prevenirlo para la generalidad» (véase «Antecedentes Parlamentarios. Ley 26.361. Defensa del Consumidor», Ed. La Ley, Buenos Aires 2008, pág. 369).
+
+En esa misma dirección, se ha sostenido que «resulta contrario a la esencia del daño punitivo y a más de 200 años de historia, sostener que un abogado está habilitado a pedir y el juez a concederlos ante la simple invocación de que el proveedor no ha cumplido sus obligaciones legales o contractuales» (conf. Cam. Apel. Concepción del Uruguay, Sala Civil y Comercial; 04.06.10, in re: «De la Cruz Mariano Ramón c/ Renault Argentina S.A. y otra»; López Herrera, Edgardo; «Art. 52 bis, Ley de Defensa del Consumidor», JA 2008-II 1201). Para reconocer «daños punitivos» hace falta, se reitera, el elemento «doloso o la culpa grave».
+
+Por otro lado, nótese que en el derecho anglosajón se ha exigido para que este resarcimiento proceda un grave reproche subjetivo en la conducta del dañador y un particular y significativo proceder que es mucho más que una mera negligencia en la comisión del hecho ilícito (tort), en efecto, deben existir circunstancias agravantes relativas a ese obrar que demuestren temeridad, malicia, mala fe, malignidad, intencionalidad, perversión, actitud moralmente culpable o grosera negligencia (conf. Pizarro, Ramón «Derecho.»; citado supra, pág.298).
+
+En los precedentes que han gestado esta figura, se ha admitido su procedencia, por ejemplo, cuando ha quedado demostrada la existencia de un cálculo de probabilidades de costo-beneficio de parte del autor del ilícito, en torno a que sería más barato indemnizar a los eventuales damnificados, que los gastos necesarios para corregir el mismo (véase «Grimshaw vs. Ford Motor Company» 1981, 174 Cal, Rptr 376).
+
+En la jurisprudencia norteamericana, para la aplicación de este tipo de condena en materia de daños causados por productos elaborados se exige para su procedencia que: a.) existan fallas acerca de la utilización o riesgos del producto; b.) aparezcan fallas de fabricación después de la venta; c.) se constaten deficiencias por inadecuados controles de calidad (véase referencia a los fallos «Lipke vs. Celotex Corp.» «Grimshaw vs. Ford Motor Co.» y «Deemer vs. A. Robins Co.» en Pizarro Ramón; «Derecho.», obra supra referida, pág. 326/9).
+
+También se ha señalado como exigencia de su procedencia la «existencia de lesión o daño», incluso se ha dicho que deberían exigirse, daños susceptibles de reparación (patrimoniales y extrapatrimoniales).
+
+En esta línea, se ha señalado que, en principio, este resarcimiento no resultaría aplicable en cuestiones vinculadas con incumplimientos contractuales, aunque, en general, se admite su procedencia excepcional cuando la conducta de la parte que provoca la ruptura contractual va más allá y es acompañada por otro agravio (conf. Pizarro Ramón; «Derecho.», obra supra referida, pág.301). En nuestro medio, este ámbito está expresamente previsto en el artículo 52 bis Ley 24.240.
+
+En conclusión, la finalidad perseguida con este tipo de instituto debe apuntar a sancionar al causante de un daño inadmisible con eventual proyección social y hacer desaparecer los beneficios injustamente obtenidos a través de esa actividad dañosa, con una finalidad ejemplificadora y disuasoria respecto de su reiteración.
+
+Sobre la base de todo lo hasta aquí expresado, debe concluirse pues, en que la mención que realiza el artículo 52 bis de la Ley 24.240 (reforma introducida por el art. 25 de la Ley 26.361) relativa a la exigencia del «incumplimiento de una obligación legal o contractual» debe ser entendida como una condición necesaria pero no suficiente para imponer la condena punitiva, debiendo considerarse que la misma es de interpretación restrictiva, resultando procedente, únicamente, frente a la existencia de un grave reproche en el accionar del responsable del daño debiendo haberse verificado que el agente dañador ha actuado con «dolo» o «culpa grave», o con un deliberado designio de anteponer los propios intereses y/o el propio beneficio, manteniéndose indi ferente, de modo consciente, frente a los derechos de los clientes o agentes gravemente perjudicados.
+
+Es que, no puede obviarse que la aplicación de la sanción debe presuponer los extremos exigibles de responsabilidad y que apunta a la clara finalidad de sancionar graves inconductas y a prevenir su repetición, a reflejar la desaprobación social frente a esas graves inconductas y proteger al equilibrio del mercado.
+
+El «daño punitivo» traído a nuestra legislación no puede pues, ser desligado de la necesaria consideración de la naturaleza misma del instituto, dado que es independiente y funcional a la gravedad del hecho, ya que agrava, con todo rigor, la indemnización que ya se haya estimado procedente.Así pues, cabe solo en el debido contexto que justifique concederlo.
+
+(ii.) En el caso, no encuentro que la conducta de la demandada haya constituido un comportamiento gravemente culposo y mucho menos doloso que justifique la imposición de una condena de este tipo.
+
+Se argumentó aquí que la demandada es responsable, al menos parcialmente, por los daños sufridos por el actor como consecuencia de su deber de seguridad por los perjuicios causados por el servicio riesgoso -i.e., la banca electrónica que administra. Sin embargo, como adelanté, no advierto que ese incumplimiento parcial tenga la entidad tal para considerar que la demandada haya incurrido en un comportamiento gravemente culposo ni, mucho menos, doloso que amerite la imposición de una condena de este tipo.
+
+Por esas razones, debe desestimarse la queja del actor y confirmarse la sentencia apelada en cuanto rechazó la procedencia de una condena en concepto de daño punitivo.
+
+(8.) Costas de ambas instancias.
+
+Habida cuenta que la conclusión a la que se arribara con respecto a la responsabilidad compartida entre el actor y la demandada por el acceso no autorizado a su banca electrónica conlleva la modificación parcial del pronunciamiento recurrido, tal circunstancia determina que deba quedar sin efecto la distribución de costas efectuada en la anterior instancia, correspondiendo pues a este Tribunal expedirse sobre este particular en orden a lo previsto por el art. 279 CPCCN.
+
+En efecto. Sabido es que en nuestro sistema procesal, los gastos del juicio deben ser satisfechos -como regla- por la parte que ha resultado vencida en aquél. Ello así en la medida que las costas son en nuestro régimen procesal corolario del
+
+vencimiento (arts. 68, 69 y 558 CPCCN) y se imponen no como una sanción sino como resarcimiento de los gastos provocados por el litigio, gastos que deben ser reembolsados por el vencido.
+
+Y si bien es ésta una regla general de la que es factible apartarse ya que la ley también faculta al juez a eximir de las costas al vencido, en todo o en parte, siempre que encuentre mérito para ello (arts.68 y ss.), para que ello proceda es menester que por la naturaleza de la acción deducida, la forma como se trabó la litis, su resultado o en atención a la conducta de las partes su regulación requiera un apartamiento de la mentada regla general (Colombo, Carlos y Kiper, Claudio, «Código Procesal Civil y Comercial de la Nación», t. I, p. 491).
+
+Comenzando por las costas derivadas de la tramitación de la causa en la anterior instancia, encuentro que las circunstancias de este caso se ajustan a la situación prevista en el recién citado art. 71 CPCCN. En efecto, la demanda entablada por la accionante no prosperó completamente, dado que se arribó a la conclusión de que la actora fue también responsable junto con la demandada por el ilícito perpetrado sobre sus cuentas bancarias, lo que dio motivo a una atribución de responsabilidad por aquel hecho en partes iguales entre los contendientes. En ese contexto, es posible considerar que, en definitiva, el resultado del pleito fue, al mismo tiempo, parcialmente favorable a ambas partes, por lo que, para reflejar con justicia ese resultado también en la distribución de la carga de los gastos del proceso, resulta adecuado que cada una de las partes soporte los gastos que causó su intervención en la anterior instancia.
+
+Toda vez que el resultado del litigio fue análogo en esta instancia, donde se desestimó la queja del accionante relativa a los daños punitivos pero también fueron parcialmente rechazadas las objeciones expuestas por la demandada, con excepción de la queja vinculada a la extensión de la responsabilidad que se le endilgó, también los gastos causídicos derivados de la tramitación de la litis ante esta Alzada habrán de ser soportados en el orden causado.
+
+V.CONCLUSIÓN.
+
+Como corolario de lo hasta aquí expuesto, propongo entonces al Acuerdo:
+
+(a) Desestimar el recurso interpuesto por la accionante; (b) Admitir parcialmente el deducido por la demandada, y como consecuencia de ello; (c) Modificar la sentencia apelada en cuanto imputó a dicha parte la totalidad de la responsabilidad por la maniobra delictiva objeto de la litis, reduciéndose en un cincuenta por ciento (50%) la condena a cargo de esta última, cuya obligación de restitución queda circunscripta al 50% de las sumas debitadas a la actora por el crédito otorgado mas el 50% de la suma que la actora poseía en su cuenta y que le fuera también sustraída que totalizan la cantidad de pesos treinta y cinco mil quinientos sesenta y cinco pesos con diez centavos ($35.565,10) producto de la sumatoria del 50% de las cuotas que le fueran devengadas, a saber: seis mil trescientos cincuenta y dos pesos con noventa y dos centavos ($6.352,82), seis mil trescientos cuarenta y seis pesos con diecisiete centavos ($6.346,17), seis mil quinientos veintinueve pesos con cincuenta y siete centavos ($6.529,57), seis mil trescientos treinta y seis pesos con cincuenta y cuatro centavos ($6.336,54), y diez mil pesos ($10.000) correspondientes al 50% de la suma que la actora poseía en sus cuentas y le fueron sustraídos, a las que se adicionarán los intereses fijados en la sentencia que no fueron objeto de cuestionamiento ante esta instancia; ello con fundamento en la responsabilidad concurrente atribuida al demandante según lo especificado en el considerando IV (4.) y en virtud de la proporción establecida en ese mismo considerando, apartado (5.), (d) Confirmar la sentencia apelada en todo lo demás que fue materia de agravio; y por último, (e) Distribuir las costas de ambas instancias en el orden causado en virtud de la existencia de vencimientos parciales y mutuos de similar significación económica (arts.71 y 279 CPCCN) conforme lo determinado en el considerando IV (8.).
+
+Así voto.
+
+La señora Jueza de Cámara María Guadalupe Vásquez dijo:
+
+Concuerdo con la descripción de los hechos expuesta por mi distinguido colega preopinante y adhiero también a la solución propuesta en el voto que abre este Acuerdo, con la única excepción de lo relativo a la estimación parcial de la apelación de la demandada, basada en la concurrencia de culpas entre la usuaria y la entidad bancaria. En cuanto a esta materia, sostengo que lo planteado por la recurrente para desvirtuar su responsabilidad objetiva resulta inatendible.
+
+Se destaca que en este litigio la demandada no se presentó en el plazo oportuno a contestar demandada. Frente a esta circunstancia cabe traer a colación que el artículo 64 del Código Procesal Civil y Comercial de la Nación dispone que «si el rebelde compareciere en cualquier estado del juicio, será admitido como parte y, cesando el procedimiento en rebeldía, se entenderá con él la sustanciación, sin que ésta pueda en ningún caso retrogradar.» Este artículo hace que las quejas de quien fuera declarada rebelde y luego compareciera a juicio deban subsumirse en aquella premisa procesal para impedir que, a través de sus agravios, se retrotraiga el proceso a etapas que ya fueron precluidas. En tal sentido, frente a la falta de contestación de la demanda, la accionada no puede, en esta Alzada, desarrollar argumentos u oponer defensas que eran propias de una etapa superada. Es que el supuesto del rebelde que luego comparece al proceso y apela la sentencia no constituye una omisión de la anterior instancia de examinar argumentos introducidos oportunamente (art. 278, CPCC; CNCom. Sala F, «Bourlot, Mariano Carlos y Otro C/ Air Canadá Sucursal Argentina s/ Ordinario», 15.06.2023 y Sala E, «Servicio de Atención Domiciliaria S.A. c/ Word Salud S.A.s/ordinario», 11.04.2025).
+
+En otras palabras, no resulta atendible la introducción, por vía de apelación, de argumentos defensivos que debieron plasmarse en la oportunidad establecida en el artículo 356 del citado código ritual. Un razonamiento diverso importaría tanto como desnaturalizar las reglas del debido proceso, dando lugar a una suerte de segunda oportunidad de contestar demanda, conculcándose así el derecho de defensa de la accionante (CNCom, Sala F, «Calabria, Fabiana C/ Erglis, Juan Pablo s/ Ordinario», 14.9.2022).
+
+Nótese, al respecto, que el planteo recursivo señalado claramente importa la prédica de una defensa que debió ser introducida en el momento oportuno; esto es al contestar la demanda. Además, al no haber sido puestas a consideración del magistrado de la instancia de grado, tampoco puede admitirse su examen en esta Alzada en atención a lo dispuesto en el artículo 277 del citado cuerpo ritual.
+
+En virtud de lo expuesto, considero que deben rechazarse también la apelación del banco demandado y, consecuentemente, confirmarse íntegramente la sentencia de la instancia de grado.
+
+Por último, en cuanto a los gastos causídicos de alzada, corresponde aplicar el principio rector que rige en esta materia e imponer las costas a los respectivos apelantes vencidos (art. 68, primer pár., CPCCN). Esto último, sin perjuicio lo que pueda valorarse de conformidad con la doctrina del fallo plenario dictado por esta Cámara de Apelaciones el 21.12.2021 en las actuaciones caratuladas «Hambo, Débora Raquel c/ CMR Falabella S.A. s/ sumarísimo», sobre la ejecución de las costas impuestas respecto de la parte actora, en tanto consumidora.
+
+He concluido.
+
+Por análogas razones a las expresadas en el voto del vocal preopinante, el señor Juez de Cámara, doctor Héctor Osvaldo Chómer, adhiere al voto expresado por el doctor Kolliker Frers.lo que terminó este Acuerdo.
+
+VI.Por los fundamentos del Acuerdo precedente, y con la disidencia parcial de la Doctora María Guadalupe Vásquez, se RESUELVE:
+
+(a) Desestimar el recurso interpuesto por la accionante; (b) Admitir parcialmente el deducido por la demandada, y como consecuencia de ello; (c) Modificar la sentencia apelada en cuanto imputó a dicha parte la totalidad de la responsabilidad por la maniobra delictiva objeto de la litis, reduciéndose en un cincuenta por ciento (50%) la condena a cargo de esta última, cuya obligación de restitución queda circunscripta al 50% de las sumas debitadas a la actora por el crédito otorgado mas el 50% de la suma que la actora poseía en su cuenta y que le fuera también sustraída que totalizan la cantidad de pesos treinta y cinco mil quinientos sesenta y cinco pesos con diez centavos ($35.565,10) producto de la sumatoria del 50% de las cuotas que le fueran devengadas, a saber: seis mil trescientos cincuenta y dos pesos con noventa y dos centavos ($6.352,82), seis mil trescientos cuarenta y seis pesos con diecisiete centavos ($6.346,17), seis mil quinientos veintinueve pesos con cincuenta y siete centavos ($6.529,57), seis mil trescientos treinta y seis pesos con cincuenta y cuatro centavos ($6.336,54), y diez mil pesos ($10.000) correspondientes al 50% de la suma que la actora poseía en sus cuentas y le fueron sustraídos, a las que se adicionarán los intereses fijados en la sentencia que no fueron objeto de cuestionamiento ante esta instancia; ello con fundamento en la responsabilidad concurrente atribuida al demandante según lo especificado en el considerando IV (4.) y en virtud de la proporción establecida en ese mismo considerando, apartado (5.), (d) Confirmar la sentencia apelada en todo lo demás que fue materia de agravio; y por último, (e) Distribuir las costas de ambas instancias en el orden causado en virtud de la existencia de vencimientos parciales y mutuos de similar significación económica (arts.71 y 279 CPCCN) conforme lo determinado en el considerando IV (8.).
+
+Firman los suscriptos en razón de haber sido desinsaculados para subrogar las Vocalías Nro. 13, 14 y 15, respectivamente.
+
+Notifíquese a las partes al domicilio electrónico o, en su caso, en los términos del CPr. 133 y la Acordada C.S.J.N. 3/2015, pto. 10. Comuníquese (cfr. Acordada C.S.J.N. N° 15/13) y devuélvase a primera instancia.
+
+Oportunamente, glósese copia certificada de la presente sentencia al libro N° 45 de Acuerdos Comerciales, Sala «E».
+
+A fin de cumplir con la publicidad prevista por el art. 1° de la ley 25.856, según el Punto I.3 del Protocolo anexado a la Acordada 24/13 CSJN, hágase saber a las partes que la publicidad de la sentencia dada en autos se efectuará, mediante la pertinente notificación al CIJ.
+
+ALFREDO A. KOLLIKER FRERS
+
+HÉCTOR OSVALDO CHÓMER
+
+MARCELA L. MACCHI
+
+SECRETARIA DE CÁMARA
+
+M. GUADALUPE VÁSQUEZ
+
+(en disidencia parcial)
+
+Me gusta esto:
+Cargando...
+CATEGORY: FALLOS, PORTADA
+TAG: CAJA DE AHORRO, CUENTA CORRIENTE BANCARIA, DAÑO MORAL, DAÑO PUNITIVO, DAÑOS Y PERJUICIOS, RESPONSABILIDAD BANCARIA
+Navegación de entradas
+PREVIOUS: 
+Previous post:
+#Estalló el verano Despachó su mochila en la bodega del micro y se perdió. ¿Te pasó?
+NEXT: 
+Next post:
+#Actualidad La prudencia, pilar de la sagacidad e ingenio del abogado
+COMPARTIR:
+Tweet
+Correo electrónico
+Imprimir
+Esto opinan de microjuris
+4,8
+4,8 de 5 estrellas (basado en 161 reseñas)
+Excelente
+Muy buena
+Media
+Mala
+Muy mala
+
+Mirá Nuestros Planes
+
+Relacionado
+#Fallos Acreditación tardía: Responsabilidad del banco por la demora de varios meses en acreditar una transferencia bancaria a un cliente
+22 noviembre 2024
+
+En «FALLOS»
+
+#Doctrina Phishing: Analizamos un fallo reciente
+7 diciembre 2023
+
+En «FALLOS»
+
+#Fallos Estafa digital: La entrega de datos por parte del consumidor no eximió al banco, distribuyendo concurrentemente la responsabilidad en 80% para la entidad y 20% para el cliente, por no detectar movimientos inusuales en la cuenta del actor
+18 septiembre 2026
+
+En «FALLOS»
+
+#Fallos Daño punitivo para el cliente quien fuera víctima de ciberestafa al haber solicitado al banco el bloqueo de sus tarjetas
+28 enero 2025
+
+En «FALLOS»
+
+
+
+Seguínos en  		 	    	 	    	 	  Chile / Puerto Rico / Venezuela
+Contacto
+
+socios.ar@microjuris.com
+
+Teléfono: +5411 5031 9300
+
+ 
+Política de privacidad Términos y condiciones Quiénes somos
+Miles de Abogados en Argentina ya usan Microjuris
+Herramientas Exclusivas para hacer tu trabajo más fácil.
+Base de fallos, doctrina y legislación, Calculadoras Jurídicas, Modelos de Escritos y muchas herramientas más.
+Conocé nuestros planes

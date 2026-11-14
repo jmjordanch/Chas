@@ -1,0 +1,9 @@
+https://www.saij.gob.ar/fideicomiso-incumplimiento-contrato-legitimacion-pasiva-sun0046109/123456789-0abc-defg9016-400nsoiramus
+(JSON oficial: https://www.saij.gob.ar/view-document?guid=123456789-0abc-defg9016-400nsoiramus)
+Sumario SAIJ N0046109 | fuente: OFICIAL
+Carátula: Servicios Vertua SA y otro  c/ Igneo SA y otro  s/ ordinario
+Tribunal: CNCom (tipo-tribunal CO) | Sala: (no consignada) | Fecha: 2026-04-06
+Texto:
+
+En el marco de una acción por incumplimiento del contrato de fideicomiso, cabe hacer lugar a la excepción de falta de legitimación pasiva impetrada por los actores -fiduciario y beneficiario-, y rechazar la reconvención opuesta por el fiduciante y el desarrollador. Ello por cuanto, el carácter de patrimonio separado del fideicomiso implica que la garantía patrimonial que tendrá aquí el desarrollador para obtener el cobro de sus créditos se limita a este patrimonio. Por tanto, la garantía que dispone en su caso para satisfacer su crédito lo constituye el patrimonio fiduciario. Consecuentemente, no podrá dirigir su acción contra los bienes de los fiduciantes y el hecho de que el fiduciario actúe como administrador del patrimonio fideicomitido, no implica - de ordinario- su responsabilidad a título personal sino en su calidad de fiduciario. Es así que siguiendo el concepto de separación patrimonial que implica el fideicomiso, el CCCN 1687 establece que los bienes personales del fiduciario no responden por las obligaciones contraídas en la ejecución del fideicomiso, las que sólo serán satisfechas con los bienes fideicomitidos.
+
