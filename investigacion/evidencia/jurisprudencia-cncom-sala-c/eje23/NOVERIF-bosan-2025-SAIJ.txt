@@ -1,0 +1,15 @@
+https://www.saij.gob.ar/view-document?guid=123456789-0abc-defg4703-400nsoiramus
+caratula: Bosan SA c/ Gestión Compañía Argentina de Seguros SA  s/ ordinario
+fecha: 2025-04-01
+tipo-tribunal: CO
+instancia: C
+id-infojus: SUN0043074
+numero-sumario: N0043074
+fuente: OFICIAL
+titulo: Medidas cautelares, traba del embargo, fideicomiso
+TEXTO: 
+Corresponde denegar la pretensión cautelar a fin de que se trabe un embargo sobre un inmueble cuyo dominio detentaría quien habría actuado como fiduciario del fideicomiso demandado. Ello por cuanto no se aprecia configurada la existencia de peligro en la demora que justifique la admisión de la cautela. Al respecto cabe señalar que se agregó cierta constancia que acreditaría el dictado de una medida de no innovar sobre el mentado inmueble, lo que coadyuva a presumir la imposibilidad de disposición del mismo, y por ende la inexistencia de peligro actual. Ello por cuanto el [[r uuid:CT001]]CCCN 1687[[/r uuid:CT001]] establece que los bienes del fiduciario no responden por las obligaciones contraídas en la ejecución del fideicomiso, las que sólo son satisfechas con los bienes fideicomitidos. Y si bien existe la posibilidad de que se imponga la responsabilidad al fiduciario "por aplicación de los principios generales" si así correspondiere, lo cierto es que aún no se configuró esa situación de excepción, en tanto ello solo podría ocurrir a través de un pronunciamiento de fondo, que en autos no ha sido dictado.
+
+
+=== TEXTO NORMALIZADO (saltos de línea y espacios múltiples colapsados en un espacio) ===
+caratula: Bosan SA c/ Gestión Compañía Argentina de Seguros SA s/ ordinario fecha: 2025-04-01 tipo-tribunal: CO instancia: C id-infojus: SUN0043074 numero-sumario: N0043074 fuente: OFICIAL titulo: Medidas cautelares, traba del embargo, fideicomiso TEXTO: Corresponde denegar la pretensión cautelar a fin de que se trabe un embargo sobre un inmueble cuyo dominio detentaría quien habría actuado como fiduciario del fideicomiso demandado. Ello por cuanto no se aprecia configurada la existencia de peligro en la demora que justifique la admisión de la cautela. Al respecto cabe señalar que se agregó cierta constancia que acreditaría el dictado de una medida de no innovar sobre el mentado inmueble, lo que coadyuva a presumir la imposibilidad de disposición del mismo, y por ende la inexistencia de peligro actual. Ello por cuanto el [[r uuid:CT001]]CCCN 1687[[/r uuid:CT001]] establece que los bienes del fiduciario no responden por las obligaciones contraídas en la ejecución del fideicomiso, las que sólo son satisfechas con los bienes fideicomitidos. Y si bien existe la posibilidad de que se imponga la responsabilidad al fiduciario "por aplicación de los principios generales" si así correspondiere, lo cierto es que aún no se configuró esa situación de excepción, en tanto ello solo podría ocurrir a través de un pronunciamiento de fondo, que en autos no ha sido dictado. 

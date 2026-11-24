@@ -1,0 +1,15 @@
+https://www.saij.gob.ar/view-document?guid=123456789-0abc-defg3004-400nsoiramus
+caratula: Filiberti, Nicolas Dam Fideicomiso Ian c/ Star Alvarez Thomas  c/  s/ Liquidacion Judicial s/ Incidente Art 250
+fecha: 2025-08-27
+tipo-tribunal: CO
+instancia: C
+id-infojus: SUN0044003
+numero-sumario: N0044003
+fuente: OFICIAL
+titulo: Confirmación de sentencia, medidas cautelares, suspensión de la subasta, fideicomiso
+TEXTO: 
+Cabe confirmar la resolución que desestimó la solicitud cautelar consistente en suspender la subasta del bien inmueble dispuesto en el marco de cierta causa civil. Ello por cuanto, en el caso, el inmueble respecto del cual se pretende trabar la medida, es un bien fideicomitido, que como se sabe constituye un patrimonio de afectación en cabeza del fiduciario, que se encuentra exento de la acción singular o colectiva de los acreedores del fiduciario o del fiduciante -CCCN 1862, 1685 y 1686-. Bajo tales premisas es claro que el inmueble afectado al fideicomiso no puede ser alcanzado por la medida que se trata.
+
+
+=== TEXTO NORMALIZADO (saltos de línea y espacios múltiples colapsados en un espacio) ===
+caratula: Filiberti, Nicolas Dam Fideicomiso Ian c/ Star Alvarez Thomas c/ s/ Liquidacion Judicial s/ Incidente Art 250 fecha: 2025-08-27 tipo-tribunal: CO instancia: C id-infojus: SUN0044003 numero-sumario: N0044003 fuente: OFICIAL titulo: Confirmación de sentencia, medidas cautelares, suspensión de la subasta, fideicomiso TEXTO: Cabe confirmar la resolución que desestimó la solicitud cautelar consistente en suspender la subasta del bien inmueble dispuesto en el marco de cierta causa civil. Ello por cuanto, en el caso, el inmueble respecto del cual se pretende trabar la medida, es un bien fideicomitido, que como se sabe constituye un patrimonio de afectación en cabeza del fiduciario, que se encuentra exento de la acción singular o colectiva de los acreedores del fiduciario o del fiduciante -CCCN 1862, 1685 y 1686-. Bajo tales premisas es claro que el inmueble afectado al fideicomiso no puede ser alcanzado por la medida que se trata. 

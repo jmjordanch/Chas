@@ -1,0 +1,16 @@
+https://www.saij.gob.ar/view-document?guid=123456789-0abc-defg6041-300nsoiramus
+caratula: IMFELD O FARRELL, DIANA c/ FIDEICOMISO ROOSEVELT 4063 Y OTROS s/ ORDINARIO
+fecha: 2022-02-24
+tipo-tribunal: CO
+instancia: C
+sala: D
+id-infojus: SUN0031406
+numero-sumario: N0031406
+fuente: OFICIAL
+titulo: Derecho procesal, medidas cautelares, medida de no innovar, improcedencia del recurso, contratos, fideicomiso
+TEXTO: 
+Cabe denegar la pretensión cautelar opuesta por la actora, orientada a obtener una medida de no innovar a fin de que se impida a la fiduciaria excluirla del Fideicomiso, en el marco de una acción principal que tiene por objeto la nulidad de un laudo arbitral, el cumplimiento del contrato de fideicomiso y la reparación de daños y perjuicios. Ello así, pues a la fecha en que fuera solicitada la medida la accionante ya se encontraba excluida, por lo que bien correspondió su tratamiento como medida innovativa; sin embargo, la complejidad de la cuestión en debate requiere el aporte y producción de diversos medios probatorios que permita desentrañar el conflictivo escenario que plantea la litis, todavía incierto.
+
+
+=== TEXTO NORMALIZADO (saltos de línea y espacios múltiples colapsados en un espacio) ===
+caratula: IMFELD O FARRELL, DIANA c/ FIDEICOMISO ROOSEVELT 4063 Y OTROS s/ ORDINARIO fecha: 2022-02-24 tipo-tribunal: CO instancia: C sala: D id-infojus: SUN0031406 numero-sumario: N0031406 fuente: OFICIAL titulo: Derecho procesal, medidas cautelares, medida de no innovar, improcedencia del recurso, contratos, fideicomiso TEXTO: Cabe denegar la pretensión cautelar opuesta por la actora, orientada a obtener una medida de no innovar a fin de que se impida a la fiduciaria excluirla del Fideicomiso, en el marco de una acción principal que tiene por objeto la nulidad de un laudo arbitral, el cumplimiento del contrato de fideicomiso y la reparación de daños y perjuicios. Ello así, pues a la fecha en que fuera solicitada la medida la accionante ya se encontraba excluida, por lo que bien correspondió su tratamiento como medida innovativa; sin embargo, la complejidad de la cuestión en debate requiere el aporte y producción de diversos medios probatorios que permita desentrañar el conflictivo escenario que plantea la litis, todavía incierto. 
